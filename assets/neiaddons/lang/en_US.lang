@@ -1,0 +1,28 @@
+bdew.neiaddons.genetics=§7Forestry Genetics
+bdew.neiaddons.exnihilo=§7Ex Nihilo
+
+bdew.neiaddons.breeding.beebreeding=§7Bee Breeding
+bdew.neiaddons.produce.beeproduce=§7Bee Produce
+
+bdew.neiaddons.breeding.treebreeding=§7Tree Breeding
+bdew.neiaddons.produce.treeproduce=§7Tree Produce
+
+bdew.neiaddons.breeding.flowerbreeding=§7Flower Breeding
+
+bdew.neiaddons.breeding.butterflybreeding=§7Butterfly Breeding
+
+bdew.exnihilo.hammer.label=§7ExNihilo Hammer
+bdew.exnihilo.sieve.label=§7ExNihilo Sieve
+
+bdew.exnihilo.barrel.burn=§7Will burn in %s seconds!!!
+bdew.exnihilo.beetrap.spawn=§7Spawning: %s%%
+bdew.exnihilo.crucible.fluid=§7Fluid: %s %s mB
+bdew.exnihilo.crucible.solid=§7Solid: %s %s
+
+bdew.neiaddons.noserver=§7This function requires NEI Addons to be installed on the server
+
+nei.options.tools.dump.neiaddons=§7NEI Addons
+nei.options.tools.dump.neiaddons.dumped=§7%s dumped to %s
+nei.options.tools.dump.neiaddons.bee_mutations=§7Bee Mutations
+nei.options.tools.dump.neiaddons.tree_mutations=§7Tree Mutations
+nei.options.tools.dump.neiaddons.flower_mutations=§7Flower Mutations

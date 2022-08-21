@@ -1,0 +1,95 @@
+neiintegration.yes=§7Yes
+neiintegration.no=§7No
+
+neiintegration.shaped=§7Shaped
+neiintegration.shapeless=§7Shapeless
+
+neiintegration.chance=§7Chance: %s
+neiintegration.chance.never=§7Never
+neiintegration.chance.lessThan1=§7<1%
+
+neiintegration.ticks=§7ticks
+
+neiintegration.tooltip.internalName=§7ID:
+neiintegration.tooltip.unlocalizedName=§7Unloc. name:
+neiintegration.tooltip.maxstack=§7Maximum stack size:
+neiintegration.tooltip.burntime=§7Burn time:
+neiintegration.tooltip.oredict=§7Ore Dictionary names:
+neiintegration.tooltip.fluidreg=§7Fluid Registry info:
+neiintegration.tooltip.fluidreg.empty=§7Empty Container
+
+neiintegration.config.title=§7NEI Integration Configuration
+neiintegration.config.integrations=§7Mod Integrations settings
+neiintegration.config.integrations.tooltip=§7Enable or disable all recipe handlers for certain mods.
+neiintegration.config.handlers=§7Recipe Handler settings
+neiintegration.config.handlers.tooltip=§7Enable or disable some of the recipe handlers this mod adds.
+neiintegration.config.tooltips=§7Item Tooltip Settings
+neiintegration.config.tooltips.tooltip=§7No tooltip defined. How ironic.
+
+nei.options.tools.dump.neiintegration=§7NEI Integration
+nei.options.tools.dump.neiintegration.chestloots=§7Chest Loot
+nei.options.tools.dump.neiintegration.chestloot=§7Chest Loot
+nei.options.tools.dump.neiintegration.dimension=§7Dimension
+nei.options.tools.dump.neiintegration.dimensions=§7Dimensions
+nei.options.tools.dump.neiintegration.entity=§7Entity
+nei.options.tools.dump.neiintegration.entitys=§7Entities
+nei.options.tools.dump.neiintegration.fluid=§7Fluid
+nei.options.tools.dump.neiintegration.fluids=§7Fluids
+nei.options.tools.dump.neiintegration.fluidcontainer=§7Fluid Container
+nei.options.tools.dump.neiintegration.fluidcontainers=§7Fluid Containers
+nei.options.tools.dump.neiintegration.inventory=§7Player Inventory
+nei.options.tools.dump.neiintegration.inventorys=§7Player Inventory
+nei.options.tools.dump.neiintegration.loadedmod=§7Loaded Mod
+nei.options.tools.dump.neiintegration.loadedmods=§7Loaded Mods
+nei.options.tools.dump.neiintegration.oredict=§7Ore Dictionary
+nei.options.tools.dump.neiintegration.oredicts=§7Ore Dictionary
+nei.options.tools.dump.neiintegration.recipehandler=§7Recipe Handler
+nei.options.tools.dump.neiintegration.recipehandlers=§7Recipe Handlers
+nei.options.tools.dump.neiintegration.tileentity=§7Tile Entity
+nei.options.tools.dump.neiintegration.tileentitys=§7Tile Entities
+
+# Forge
+neiintegration.handler.fluidRegistry=§7Fluid Registry
+neiintegration.handler.fluidRegistry.id=§7ID:
+neiintegration.handler.fluidRegistry.state=§7State:
+neiintegration.handler.fluidRegistry.state.gaseous=§7Gaseous
+neiintegration.handler.fluidRegistry.state.liquid=§7Liquid
+neiintegration.handler.fluidRegistry.placeable=§7Can be placed:
+neiintegration.handler.fluidRegistry.temperature=§7Temperature:
+neiintegration.handler.fluidRegistry.luminosity=§7Luminosity:
+neiintegration.handler.fluidRegistry.density=§7Density:
+neiintegration.handler.fluidRegistry.viscosity=§7Viscosity:
+
+neiintegration.handler.oreDictionary=§7Ore Dictionary
+neiintegration.handler.oreDictionary.warning=§7Can take a while to load!
+
+# BuildCraft
+neiintegration.handler.refinery.energyRate=§7%d RF at %d RF/t
+
+# Electrical Age
+neiintegration.handler.electricalage.compressor=§7Compressor (ELN)
+neiintegration.handler.electricalage.macerator=§7Macerator (ELN)
+neiintegration.handler.electricalage.magnetizer=§7Magnetizer
+neiintegration.handler.electricalage.plateMachine=§7Plate Machine
+
+# Forestry
+neiintegration.handler.forestry.shaped=§7Forestry Shaped
+neiintegration.handler.forestry.fabricator.worth=§7Worth:
+
+# MineFactory Reloaded
+neiintegration.handler.bioreactor.efficiency=§7Efficiency
+neiintegration.handler.bioreactor.efficiency.1=§7Depends of the amount of
+neiintegration.handler.bioreactor.efficiency.2=§7different items being processed.
+neiintegration.handler.bioreactor.efficiency.3=§7More efficiency means more BioFuel.
+neiintegration.handler.grinder.mobs=§7Mobs
+neiintegration.handler.grinder.mobs.1=§7Mobs that drop more XP
+neiintegration.handler.grinder.mobs.2=§7produce more Essence.
+neiintegration.handler.harvester.harvestables=§7Harvestable blocks
+neiintegration.handler.harvester.harvestables.1=§7Sludge is a byproduct of harvesting.
+neiintegration.handler.laserdrill.focus=§7Focus
+neiintegration.handler.sewer.animals=§7Animals or villagers
+neiintegration.handler.sewer.animals.1=§7Larger animals produce more sewage.
+neiintegration.handler.sewer.xp=§7Experience Orbs
+neiintegration.handler.sewer.xp.1=§7XP gets converted into Essence.
+neiintegration.handler.slaughterhouse.animals=§7Animals
+neiintegration.handler.slaughterhouse.animals.1=§7Larger animals produce more meat.

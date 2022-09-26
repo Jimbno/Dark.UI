@@ -1,0 +1,102 @@
+#This file is a translation file for KubaTech
+
+#NEI
+mobhandler.normal_drops=§7Normal drops
+mobhandler.rare_drops=§7Rare drops
+mobhandler.additional_drops=§7Additional drops
+mobhandler.infernal_drops=§7Infernal drops
+mobhandler.infernal_cannot=§7Cannot spawn infernal
+mobhandler.infernal_can=§7Can spawn infernal
+mobhandler.infernal_always=§7Always spawns infernal
+mobhandler.mod=§7Mod: 
+mobhandler.max_health=§7Max health: 
+mobhandler.chance=§7Chance: 
+mobhandler.average_reminder=§7§7§oPlease remember that these are average drops.
+mobhandler.lootable=§7Looting is applied
+mobhandler.player_only=§7§7Does not drop in EEC
+
+#Commands
+commandhandler.invalid=§7§cInvalid use ! The proper use of this command is /%s
+commandhandler.cant_find=§7§cCan't find command option %s
+commandhandler.generic_help=§7§cYou can also use "/kubatech help" to get possible commands
+commandhandler.usage=§7<option>
+command.help.possible_commands=§7Possible commands: 
+command.help.usage=§7- Shows all possible commands
+command.config.invalid_option=§7§cInvalid option ! Possible options: reload
+command.config.success=§7§aConfig reloaded successfully !
+command.config.usage=§7<option>
+
+#Items
+kubaitem.fromcollection=§7This item is from
+kubaitem.notyours=§7It looks like that item is not yours
+
+#Tea
+kubaitem.tea.black_tea.name=§7Black Tea
+kubaitem.tea.earl_gray_tea.name=§7Earl Gray Tea
+kubaitem.tea.green_tea.name=§7Green Tea
+kubaitem.tea.lemon_tea.name=§7Lemon Tea
+kubaitem.tea.milk_tea.name=§7Milk Tea
+kubaitem.tea.oolong_tea.name=§7Oolong Tea
+kubaitem.tea.peppermint_tea.name=§7Peppermint Tea
+kubaitem.tea.pu-erh_tea.name=§7Pu-erh Tea
+kubaitem.tea.white_tea.name=§7White Tea
+kubaitem.tea.yellow_tea.name=§7Yellow Tea
+kubaitem.teaingredient.black_tea_leaf.name=§7Black Tea Leaf
+kubaitem.teaingredient.green_tea_leaf.name=§7Green Tea Leaf
+kubaitem.teaingredient.oolong_tea_leaf.name=§7Oolong Tea Leaf
+kubaitem.teaingredient.pu-erh_tea_leaf.name=§7Pu-erh Tea Leaf
+kubaitem.teaingredient.white_tea_leaf.name=§7White Tea Leaf
+kubaitem.teaingredient.yellow_tea_leaf.name=§7Yellow Tea Leaf
+kubaitem.teaingredient.tea_leaf_dehydrated.name=§7Dehydrated Tea Leaf
+kubaitem.teaingredient.steamed_tea_leaf.name=§7Steamed Tea Leaf
+kubaitem.teaingredient.rolled_tea_leaf.name=§7Rolled Tea Leaf
+kubaitem.teaingredient.oxidized_tea_leaf.name=§7Oxidized Tea Leaf
+kubaitem.teaingredient.fermented_tea_leaf.name=§7Fermented Tea Leaf
+kubaitem.teaingredient.bruised_tea_leaf.name=§7Bruised Tea Leaf
+kubaitem.teaingredient.partially_oxidized_tea_leaf.name=§7Partially Oxidized Tea Leaf
+
+#Legendary Tea collection
+kubaitem.teacollection=§7Turbo Legendary Secret Tea Collection
+kubaitem.teacollection.mmm=§7Mmmm Tea
+kubaitem.teacollection.black_tea.name=§7§6§lKuba's Black Tea
+kubaitem.teacollection.butterfly_tea.name=§7§1§lKuba's Butterfly Pea Tea
+kubaitem.teacollection.earl_gray_tea.name=§7§6§lKuba's Earl Gray Tea
+kubaitem.teacollection.green_tea.name=§7§2§lKuba's Green Tea
+kubaitem.teacollection.lemon_tea.name=§7§e§lKuba's Lemon Tea
+kubaitem.teacollection.milk_tea.name=§7§f§lKuba's Milk Tea
+kubaitem.teacollection.oolong_tea.name=§7§e§lKuba's Oolong Tea
+kubaitem.teacollection.peppermint_tea.name=§7§a§lKuba's Peppermint Tea
+kubaitem.teacollection.pu-erh_tea.name=§7§4§lKuba's Pu-erh Tea
+kubaitem.teacollection.red_tea.name=§7§c§lKuba's Hibiscus Tea
+kubaitem.teacollection.white_tea.name=§7§e§lKuba's White Tea
+kubaitem.teacollection.yellow_tea.name=§7§6§lKuba's Yellow Tea
+kubaitem.teacollection.ultimate_tea.name=§7§6§lKuba's %s §6§lTea
+
+#Achievements
+achievement.teacollection.black_tea=§7§6§lKuba's Black Tea
+achievement.teacollection.butterfly_tea=§7§1§lKuba's Butterfly Pea Tea
+achievement.teacollection.earl_gray_tea=§7§6§lKuba's Earl Gray Tea
+achievement.teacollection.green_tea=§7§2§lKuba's Green Tea
+achievement.teacollection.lemon_tea=§7§e§lKuba's Lemon Tea
+achievement.teacollection.milk_tea=§7§f§lKuba's Milk Tea
+achievement.teacollection.oolong_tea=§7§e§lKuba's Oolong Tea
+achievement.teacollection.peppermint_tea=§7§a§lKuba's Peppermint Tea
+achievement.teacollection.pu-erh_tea=§7§4§lKuba's Pu-erh Tea
+achievement.teacollection.red_tea=§7§c§lKuba's Hibiscus Tea
+achievement.teacollection.white_tea=§7§e§lKuba's White Tea
+achievement.teacollection.yellow_tea=§7§6§lKuba's Yellow Tea
+achievement.teacollection.ultimate_tea=§7§4§l§k??????
+
+achievement.teacollection.black_tea.desc=§7§6The most common and popular type of Tea
+achievement.teacollection.butterfly_tea.desc=§7§1Not even Tea
+achievement.teacollection.earl_gray_tea.desc=§7§6For the true Brits
+achievement.teacollection.green_tea.desc=§7§2Based
+achievement.teacollection.lemon_tea.desc=§7§eBlack Tea with lemon, what did You expect ?
+achievement.teacollection.milk_tea.desc=§7§fBlack Tea with milk, my favourite
+achievement.teacollection.oolong_tea.desc=§7§e對於真正的鑑賞家
+achievement.teacollection.peppermint_tea.desc=§7§aGood for stomach ache
+achievement.teacollection.pu-erh_tea.desc=§7§4Good for digestion, also tastes like dirt
+achievement.teacollection.red_tea.desc=§7§cWhy would anyone drink this ?
+achievement.teacollection.white_tea.desc=§7§eThe healthiest one
+achievement.teacollection.yellow_tea.desc=§7§6Green Tea with more grassy flavour
+achievement.teacollection.ultimate_tea.desc=§7§4§lOne Tea to drink them all

@@ -1,0 +1,15 @@
+item.advanced_memory_card.name=§7Advanced Memory Card
+item.advanced_memory_card.selected=§7Frequency: {}
+item.advanced_memory_card.not_selected=§7No Frequency
+gui.advanced_memory_card.select=§7Select
+gui.advanced_memory_card.bind=§7Bind
+gui.advanced_memory_card.pos=§7Pos: %d, %d, %d Side: %s
+gui.advanced_memory_card.name=§7Name: %s
+gui.advanced_memory_card.mode.input=§7Mode: Bind Input
+gui.advanced_memory_card.mode.output=§7Mode: Bind Output
+gui.advanced_memory_card.mode.copy=§7Mode: Copy Output
+gui.advanced_memory_card.desc.mode=§7Switch to %s
+gui.advanced_memory_card.desc.mode.input=§7Input
+gui.advanced_memory_card.desc.mode.output=§7Output
+gui.advanced_memory_card.desc.not_set=§7Not set
+gui.advanced_memory_card.desc.effect=§7Effect:

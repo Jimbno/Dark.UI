@@ -1,0 +1,57 @@
+inventory.knapsack=§7Rucksack
+
+MetalOre.Aluminum.name=§7Aluminium Ore
+
+block.oreberry.aluminum.name=§7Aluminium Oreberry Bush
+
+block.ore.gravel.aluminum.name=§7Aluminium Gravel Ore
+
+tile.cloth.gray.slab.name=§7Grey Wool Slab
+tile.cloth.silver.slab.name=§7Light Grey Wool Slab
+
+item.oreberry.aluminum.name=§7Aluminium Oreberry
+
+item.tconstruct.Materials.AluminumIngot.name=§7Aluminium Ingot
+item.tconstruct.Materials.RawAluminum.name=§7Raw Aluminium
+item.tconstruct.Materials.AluBrassIngot.name=§7Aluminium Brass Ingot
+item.tconstruct.Materials.AluminumNugget.name=§7Aluminium Nugget
+item.tconstruct.Materials.AluBrassNugget.name=§7Aluminium Brass Nugget
+item.tconstruct.Materials.AluminumDust.name=§7Aluminium Dust
+item.tconstruct.Materials.AluBrassDust.name=§7Aluminium Brass Dust
+
+# damn, there's a British word for this but I can't quite suss it out
+item.tconstruct.jerky.beef.name=§7Beef Jerky
+item.tconstruct.jerky.pig.name=§7Bacon Jerky
+item.tconstruct.jerky.chicken.name=§7Chicken Jerky
+item.tconstruct.jerky.sheep.name=§7Mutton Jerky
+item.tconstruct.jerky.fish.name=§7Fish Jerky
+item.tconstruct.jerky.zombie.name=§7Monster Jerky
+
+beginnertool.pickaxe=§7Beginner's Pickaxe
+
+StorageMetals.Aluminum.name=§7Block of Aluminium
+StorageMetals.AlBrass.name=§7Block of Aluminium Brass
+
+block.stainedglass.gray.name=§7Grey Stained Glass
+block.stainedglass.lightgray.name=§7Light Grey Stained Glass
+
+block.stainedglass.gray.pane.name=§7Grey Stained Pane
+block.stainedglass.lightgray.pane.name=§7Light Grey Stained Pane
+
+item.tconstruct.storage.knapsack.name=§7Rucksack  
+
+item.tconstruct.bucket.Aluminum.name=§7Molten Aluminium Bucket
+item.tconstruct.bucket.AluBrass.name=§7Molten Aluminium Brass Bucket
+
+tile.fluid.molten.aluminum.name=§7Molten Aluminium
+tile.fluid.molten.alubrass.name=§7Molten Aluminium Brass
+
+LiquidMetal.Aluminum.name=§7Molten Aluminium
+LiquidMetal.AluBrass.name=§7Molten Aluminium Brass
+
+key.tarmor=§7Armour Gui
+
+fluid.aluminum.molten=§7Molten Aluminium
+fluid.aluminumbrass.molten=§7Molten Aluminium Brass
+
+knapsack.tooltip=§7A Rucksack to hold your things.

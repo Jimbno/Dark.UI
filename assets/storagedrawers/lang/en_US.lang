@@ -1,0 +1,213 @@
+itemGroup.storageDrawers=§7Storage Drawers
+itemGroup.storageDrawersSorting=§7Storage Drawers - Sorting
+
+storageDrawers.container.drawers=§7Drawers
+storageDrawers.container.compDrawers=§7Compacting Drawers
+storageDrawers.container.upgrades=§7Upgrades
+storageDrawers.container.controller=§7Drawer Controller
+storageDrawers.container.unboundSlave=§7Unbound Slave
+storageDrawers.container.framingTable=§7Framing Table
+
+storagedrawers.msg.maxUpgrades=§7This drawer cannot accept any more upgrades.
+
+# Items
+item.storagedrawers.upgradeTemplate.name=§7Upgrade Template
+item.storagedrawers.upgrade.iron.name=§7Storage Upgrade (II)
+item.storagedrawers.upgrade.gold.name=§7Storage Upgrade (III)
+item.storagedrawers.upgrade.obsidian.name=§7Storage Upgrade (IV)
+item.storagedrawers.upgrade.diamond.name=§7Storage Upgrade (V)
+item.storagedrawers.upgrade.emerald.name=§7Storage Upgrade (VI)
+item.storagedrawers.upgradeStatus.level1.name=§7Status Upgrade (I)
+item.storagedrawers.upgradeStatus.level1.description=§7Shows full storage
+item.storagedrawers.upgradeStatus.level2.name=§7Status Upgrade (II)
+item.storagedrawers.upgradeStatus.level2.description=§7Shows fill level
+item.storagedrawers.upgradeLock.name=§7Drawer Key
+item.storagedrawers.upgradeLock.description=§7Locks and unlocks drawers
+item.storagedrawers.upgradeVoid.name=§7Void Upgrade
+item.storagedrawers.upgradeVoid.description=§7Destroys excess items
+item.storagedrawers.upgradeCreative.store.name=§7Creative Storage Upgrade
+item.storagedrawers.upgradeCreative.store.description=§7Near-infinite storage
+item.storagedrawers.upgradeCreative.vend.name=§7Creative Vending Upgrade
+item.storagedrawers.upgradeCreative.vend.description=§7Unlimited item withdrawal
+item.storagedrawers.upgradeRedstone.combined.name=§7Redstone Upgrade
+item.storagedrawers.upgradeRedstone.combined.description=§7Emits signal for total storage.
+item.storagedrawers.upgradeRedstone.max.name=§7Redstone Max Upgrade
+item.storagedrawers.upgradeRedstone.max.description=§7Emits signal for most full slot.
+item.storagedrawers.upgradeRedstone.min.name=§7Redstone Min Upgrade
+item.storagedrawers.upgradeRedstone.min.description=§7Emits signal for least full slot.
+item.storagedrawers.upgradeDowngrade.name=§7Storage Downgrade
+item.storagedrawers.upgradeDowngrade.description=§7Sets the base storage capacity to 1 stack.
+item.storagedrawers.upgradeSorting.name=§7Sorting Upgrade
+item.storagedrawers.upgradeSorting.description=§7For Refined Relocation
+item.storagedrawers.shroudKey.name=§7Concealment Key
+item.storagedrawers.shroudKey.description=§7Show or hide item labels
+item.storagedrawers.personalKey.default.name=§7Personal Key
+item.storagedrawers.personalKey.default.description=§7Protect access from other players
+item.storagedrawers.personalKey.cofh.name=§7Personal Key (CoFH)
+item.storagedrawers.personalKey.cofh.description=§7Protect access from other players
+item.storagedrawers.tape.name=§7Packing Tape
+item.storagedrawers.tape.description=§7Seals drawers for moving
+
+# Blocks
+tile.fullDrawers1.oak.name=§7Oak Drawer
+tile.fullDrawers1.spruce.name=§7Spruce Drawer
+tile.fullDrawers1.birch.name=§7Birch Drawer
+tile.fullDrawers1.jungle.name=§7Jungle Drawer
+tile.fullDrawers1.acacia.name=§7Acacia Drawer
+tile.fullDrawers1.big_oak.name=§7Dark Oak Drawer
+
+tile.fullDrawers2.oak.name=§7Oak Drawers 1x2
+tile.fullDrawers2.spruce.name=§7Spruce Drawers 1x2
+tile.fullDrawers2.birch.name=§7Birch Drawers 1x2
+tile.fullDrawers2.jungle.name=§7Jungle Drawers 1x2
+tile.fullDrawers2.acacia.name=§7Acacia Drawers 1x2
+tile.fullDrawers2.big_oak.name=§7Dark Oak Drawers 1x2
+
+tile.fullDrawers4.oak.name=§7Oak Drawers 2x2
+tile.fullDrawers4.spruce.name=§7Spruce Drawers 2x2
+tile.fullDrawers4.birch.name=§7Birch Drawers 2x2
+tile.fullDrawers4.jungle.name=§7Jungle Drawers 2x2
+tile.fullDrawers4.acacia.name=§7Acacia Drawers 2x2
+tile.fullDrawers4.big_oak.name=§7Dark Oak Drawers 2x2
+
+tile.halfDrawers2.oak.name=§7Compact Oak Drawers 1x2
+tile.halfDrawers2.spruce.name=§7Compact Spruce Drawers 1x2
+tile.halfDrawers2.birch.name=§7Compact Birch Drawers 1x2
+tile.halfDrawers2.jungle.name=§7Compact Jungle Drawers 1x2
+tile.halfDrawers2.acacia.name=§7Compact Acacia Drawers 1x2
+tile.halfDrawers2.big_oak.name=§7Compact Dark Oak Drawers 1x2
+
+tile.halfDrawers4.oak.name=§7Compact Oak Drawers 2x2
+tile.halfDrawers4.spruce.name=§7Compact Spruce Drawers 2x2
+tile.halfDrawers4.birch.name=§7Compact Birch Drawers 2x2
+tile.halfDrawers4.jungle.name=§7Compact Jungle Drawers 2x2
+tile.halfDrawers4.acacia.name=§7Compact Acacia Drawers 2x2
+tile.halfDrawers4.big_oak.name=§7Compact Dark Oak Drawers 2x2
+
+tile.fullCustom1.name=§7Framed Drawer
+tile.fullCustom2.name=§7Framed Drawers 1x2
+tile.fullCustom4.name=§7Framed Drawers 2x2
+tile.halfCustom2.name=§7Framed Drawers 1x2
+tile.halfCustom4.name=§7Framed Drawers 2x2
+tile.trimCustom.name=§7Framed Trim
+
+tile.compDrawers.name=§7Compacting Drawer
+tile.drawerController.name=§7Drawer Controller
+tile.controllerSlave.name=§7Controller Slave
+tile.framingTable.name=§7Framing Table
+
+tile.trim.oak.name=§7Oak Trim
+tile.trim.spruce.name=§7Spruce Trim
+tile.trim.birch.name=§7Birch Trim
+tile.trim.jungle.name=§7Jungle Trim
+tile.trim.acacia.name=§7Acacia Trim
+tile.trim.big_oak.name=§7Dark Oak Trim
+
+storageDrawers.drawers.description=§7Holds %d stacks per drawer
+storageDrawers.drawers.sealed=§7Contents sealed within
+storageDrawers.upgrade.description=§7Increases storage to %d times base value
+storageDrawers.controller.description=§7Interact with a bank of connected drawers
+storageDrawers.controllerSlave.description=§7Extra attach points for controllers
+
+# Integration
+storageDrawers.waila.empty=§7<Empty>
+storageDrawers.waila.level=§7Upgrade Level: %s
+storageDrawers.waila.drawer=§7#%s: %s
+storageDrawers.waila.limit=§7Stack Limit: %s (x%s)
+storageDrawers.waila.nolimit=§7Stack Limit: ∞
+storageDrawers.waila.locked=§7Locked
+storageDrawers.waila.void=§7Void
+storageDrawers.waila.sorting=§7Sorting
+storageDrawers.waila.protected=§7Protected
+
+# Configuration
+storageDrawers.config.title=§7Storage Drawers Configuration
+
+storageDrawers.config.general=§7General Settings
+storageDrawers.config.general.tooltip=§7This and that.
+
+storageDrawers.config.blocks=§7Block Settings
+storageDrawers.config.blocks.tooltip=§7Configure individual storage blocks.
+
+storageDrawers.config.blocks.fullDrawers1=§7Drawers 1x1
+storageDrawers.config.blocks.fullDrawers2=§7Drawers 1x2
+storageDrawers.config.blocks.fullDrawers4=§7Drawers 2x2
+storageDrawers.config.blocks.halfDrawers2=§7Compact Drawers 1x2
+storageDrawers.config.blocks.halfDrawers4=§7Compact Drawers 2x2
+storageDrawers.config.blocks.compDrawers=§7Compacting Drawer
+storageDrawers.config.blocks.controller=§7Drawer Controller
+storageDrawers.config.blocks.trim=§7Trim
+storageDrawers.config.blocks.controllerSlave=§7Controller Slave
+
+storageDrawers.config.upgrades=§7Upgrade Settings
+storageDrawers.config.upgrades.tooltip=§7Configure individual storage upgrades.
+
+storageDrawers.config.upgrades.level2Mult=§7Storage Multiplier (II)
+storageDrawers.config.upgrades.level3Mult=§7Storage Multiplier (III)
+storageDrawers.config.upgrades.level4Mult=§7Storage Multiplier (IV)
+storageDrawers.config.upgrades.level5Mult=§7Storage Multiplier (V)
+storageDrawers.config.upgrades.level6Mult=§7Storage Multiplier (VI)
+
+storageDrawers.config.prop.itemRenderType=§7Item Render Type
+storageDrawers.config.prop.itemRenderType.tooltip=§7Render items in 3D or flat.
+storageDrawers.config.prop.enableIndicatorUpgrades=§7Enable Indicator Upgrades
+storageDrawers.config.prop.enableStorageUpgrades=§7Enable Storage Upgrades
+storageDrawers.config.prop.enableLockUpgrades=§7Enable Drawer Locking
+storageDrawers.config.prop.enableShroudUpgrades=§7Enable Item Concealing
+storageDrawers.config.prop.enablePersonalUpgrades=§7Enable Access Protection
+storageDrawers.config.prop.enableVoidUpgrades=§7Enable Void Upgrade
+storageDrawers.config.prop.enableCreativeUpgrades=§7Enable Creative Upgrade
+storageDrawers.config.prop.enableRedstoneUpgrades=§7Enable Redstone Upgrade
+storageDrawers.config.prop.enableSortingUpgrades=§7Enable Sorting Upgrade
+storageDrawers.config.prop.enableSortingUpgrades.tooltip=§7Refined Relocation must be loaded.
+storageDrawers.config.prop.renderStorageUpgrades=§7Render Storage Upgrades
+storageDrawers.config.prop.creativeTabVanillaWoods=§7Creative Tab Vanilla Woods
+storageDrawers.config.prop.creativeTabVanillaWoods.tooltip=§7Enable all vanilla wood styles on creative tab.
+storageDrawers.config.prop.enabled=§7Enabled
+storageDrawers.config.prop.enabled.tooltip=§7Enable block in game.
+storageDrawers.config.prop.baseStorage=§7Base Storage
+storageDrawers.config.prop.baseStorage.tooltip=§7Number of stacks held per drawer.
+storageDrawers.config.prop.recipeOutput=§7Recipe Output
+storageDrawers.config.prop.recipeOutput.tooltip=§7Number of items from single crafting.
+storageDrawers.config.prop.enableDrawerUI=§7Enable Drawer UI
+storageDrawers.config.prop.enableDrawerUI.tooltip=§7Shows item counts and provides upgrade management.
+storageDrawers.config.prop.enableSidedInput=§7Enable Sided Input
+storageDrawers.config.prop.enableSidedInput.tooltip=§7Other blocks can insert items into drawers.
+storageDrawers.config.prop.enableSidedOutput=§7Enable Sided Output
+storageDrawers.config.prop.enableSidedOutput.tooltip=§7Other blocks can extract items from drawers.
+storageDrawers.config.prop.enableItemConversion=§7Enable Item Conversion
+storageDrawers.config.prop.enableItemConversion.tooltip=§7Drawers auto-convert ore dictionary compatible items.
+storageDrawers.config.prop.enableFallbackRecipes=§7Enable Fallback Recipes
+storageDrawers.config.prop.enableFallbackRecipes.tooltip=§7Any valid plank wood can craft oak drawers.
+storageDrawers.config.prop.invertShift=§7Invert Shift
+storageDrawers.config.prop.invertShift.tooltip=§7Inverts click and shift+click behavior.
+storageDrawers.config.prop.enableDebugLogging=§7Enable Debug Logging
+storageDrawers.config.prop.enableDebugLogging.tooltip=§7Prints extra information to the logs.
+storageDrawers.config.prop.enableTape=§7Enable Tape
+storageDrawers.config.prop.enableTape.tooltip=§7For moving drawers with contents.
+storageDrawers.config.prop.wailaStackRemainder=§7WAILA amount presentation
+storageDrawers.config.prop.wailaStackRemainder.tooltip=§7How item amounts are displayed by WAILA.
+storageDrawers.config.prop.controllerRange=§7Controller Range
+storageDrawers.config.prop.controllerRange.tooltip=§7Range for detecting networked blocks.
+storageDrawers.config.prop.controllerMaxDrawers=§7Controller Max Drawers
+storageDrawers.config.prop.controllerMaxDrawers.tooltip=§7Maximum drawers detected by controller
+storageDrawers.config.prop.enableFramedDrawers=§7Enable Framed Drawers
+storageDrawers.config.prop.enableFramedDrawers.tooltip=§7Drawers with custom materials.
+
+storageDrawers.config.addons=§7Addons
+storageDrawers.config.addons.tooltip=§7Configure global addon pack settings.
+
+storageDrawers.config.addons.showNEI=§7Show Blocks in NEI
+storageDrawers.config.addons.showCreative=§7Show Blocks in Creative Tabs
+storageDrawers.config.addons.separateTabs=§7Separate Creative Tabs
+
+storageDrawers.config.integration=§7Integration
+storageDrawers.config.integration.tooltip=§7Configure integration with other mods.
+
+storageDrawers.config.integration.enableAE2=§7Enable Applied Energistics 2 Integration
+storageDrawers.config.integration.enableWaila=§7Enable WAILA Integration
+storageDrawers.config.integration.enableThaumcraft=§7Enable Thaumcraft Integration
+storageDrawers.config.integration.enableMineTweaker=§7Enable MineTweaker Integration
+storageDrawers.config.integration.enableRefinedRelocation=§7Enable Refined Relocation Integration
+storageDrawers.config.integration.enableThermalExpansion=§7Enable Thermal Expansion Integration
+storageDrawers.config.integration.enableThermalFoundation=§7Enable Thermal Foundation Integration

@@ -1,0 +1,1790 @@
+####################
+# CORE
+####################
+
+death.engine.clockwork.player=§7%1$s was stabbed by a loose spring. %2$s was the negligent watchmaker.
+death.engine.clockwork=§7%1$s was stabbed by a loose spring.
+
+for.beverage.effect.alcoholic=§7Alcoholic
+for.beverage.effect.antidote=§7Antidote
+
+for.chat.accesslocked=§7%s is the owner of this machine and has locked access.
+for.chat.cannotmemorizeagain=§7You already memorized this information.
+for.chat.memorizednote=§7You memorize the note and dispose of the crumpled scrap of paper.
+for.chat.memorizednote2=§7You feel more confident in your ability to breed %1$s with %2$s to make %3$s!
+
+for.chat.command.aliases=§7Aliases: %s
+for.chat.command.list=§7Available Sub-Commands:
+for.chat.command.permlevel=§7Permission Level: %s
+for.chat.command.noperms=§7You do not have permission to use this command.
+
+for.chat.command.forestry.help=§7Various commands for Forestry
+for.chat.command.forestry.format=§7Format: /%s <sub-command>
+
+for.chat.command.forestry.version.desc=§7- %s : Version information
+for.chat.command.forestry.version.help=§7Prints current version
+for.chat.command.forestry.version.format=§7Format: /%s
+
+for.chat.command.forestry.plugins.desc=§7- %s : List of Forestry Plugins
+for.chat.command.forestry.plugins.help=§7Lists all Forestry Plugins. Green are active, red disabled.
+for.chat.command.forestry.plugins.format=§7Format: /%s
+
+for.chat.command.forestry.plugins.info.desc=§7- %s : Information on a specific Plugin
+for.chat.command.forestry.plugins.info.help=§7Prints information on a specific Plugin
+for.chat.command.forestry.plugins.info.format=§7Format: /%s <plugin-name>
+
+
+for.chat.help=§7Type '%s' for help.
+for.chat.plugins.error=§7No information available for plugin %s.
+for.chat.version=§7Forestry %1$s for Minecraft %2$s (Latest: %3$s).
+
+for.circuit.dampener.1=§7Fire Dampener
+for.circuit.dampener.1.description.1=§7Reduces maximum output to 10 RF/t
+for.circuit.dampener.1.description.2=§7Preserves fuel output
+for.circuit.electric.boost.1=§7Electric Boost I
+for.circuit.electric.boost.1.description.1=§7Increases output by 20 RF/t
+for.circuit.electric.boost.1.description.2=§7Increases intake by 7 EU/t
+for.circuit.electric.boost.2=§7Electric Boost II
+for.circuit.electric.boost.2.description.1=§7Increases output by 40 RF/t
+for.circuit.electric.boost.2.description.2=§7Increases intake by 15 EU/t
+for.circuit.electric.choke.1=§7Electric Choke
+for.circuit.electric.choke.1.description.1=§7Reduces output by 10 RF/t
+for.circuit.electric.choke.1.description.2=§7Reduces intake by 2 EU/t
+for.circuit.electric.efficiency.1=§7Electric Efficiency
+for.circuit.electric.efficiency.1.description.1=§7Reduces intake by 1 EU/t
+for.circuit.machine.speed.boost.1=§7Speed Boost I
+for.circuit.machine.speed.boost.1.description.1=§7Increases Speed by 12.5%
+for.circuit.machine.speed.boost.1.description.2=§7Increases Power Use by 5%
+for.circuit.machine.speed.boost.2=§7Speed Boost II
+for.circuit.machine.speed.boost.2.description.1=§7Increases Speed by 25%
+for.circuit.machine.speed.boost.2.description.2=§7Increases Power Use by 10%
+for.circuit.machine.efficiency.1=§7Machine Efficiency
+for.circuit.machine.efficiency.1.description.1=§7Decreases Power Use by 10%
+
+for.circuit.layout.dummy.name=§7Not Available
+for.circuit.layout.dummy.usage=§7Nothing
+
+for.circuit.layout.engine.tin.name=§7Electric Engine
+for.circuit.layout.engine.tin.usage=§7In Electrical Engines
+
+for.circuit.layout.farms.managed.name=§7Managed Farm
+for.circuit.layout.farms.managed.usage=§7Managed Farms
+
+for.circuit.layout.farms.manual.name=§7Manual Farm
+for.circuit.layout.farms.manual.usage=§7Manual Farms
+
+for.circuit.layout.machine.upgrade.name=§7Machine Upgrade
+for.circuit.layout.machine.upgrade.usage=§7Socketed Machines
+
+for.flowers.cacti=§7Cacti
+for.flowers.end=§7End
+for.flowers.gourd=§7Gourds
+for.flowers.jungle=§7Jungle
+for.flowers.mushrooms=§7Mushroom
+for.flowers.nether=§7Nether
+for.flowers.vanilla=§7Flowers
+for.flowers.wheat=§7Wheat
+for.flowers.snow=§7Snow
+
+fluid.bioethanol=§7Ethanol
+fluid.biomass=§7Biomass
+fluid.glass=§7Liquid Glass
+fluid.for.honey=§7Honey
+fluid.ice=§7Crushed Ice
+fluid.juice=§7Fruit Juice
+fluid.short.mead=§7Short Mead
+fluid.mead=§7Mead
+fluid.milk=§7Milk
+fluid.seedoil=§7Seed Oil
+tile.forestry.fluid.bioethanol.name=§7Ethanol
+tile.forestry.fluid.biomass.name=§7Biomass
+tile.forestry.fluid.glass.name=§7Liquid Glass
+tile.forestry.fluid.for.honey.name=§7Honey
+tile.forestry.fluid.ice.name=§7Crushed Ice
+tile.forestry.fluid.juice.name=§7Fruit Juice
+tile.forestry.fluid.short.mead.name=§7Short Mead
+tile.forestry.fluid.mead.name=§7Mead
+tile.forestry.fluid.milk.name=§7Milk
+tile.forestry.fluid.seedoil.name=§7Seed Oil
+
+for.gui.access=§7Access
+for.gui.active=§7Active
+for.gui.addressee.player=§7Player
+for.gui.addressee.trader=§7Trader Station
+
+for.gui.alyzer.authority=§7Authority
+for.gui.alyzer.classification=§7Classification
+for.gui.alyzer.extinct=§7Extinct
+for.gui.alyzer.nodescription=§7Encyclopedia Minecraftia could not provide an entry for this specimen.
+for.gui.alyzer.overview=§7Analytics available
+
+for.gui.area=§7Territory
+for.gui.arid=§7Arid
+for.gui.beach=§7Beach
+
+for.gui.beealyzer.artificial=§7Artificial Origin
+for.gui.beealyzer.behaviour=§7Behaviour
+for.gui.beealyzer.generations=§7%s Generations in Captivity
+for.gui.beealyzer.help=§7Supply bee and provide honey or honeydew as a pacifier.
+for.gui.beealyzer.mutations=§7Possible Mutations
+for.gui.beealyzer.natural=§7Natural Origin
+for.gui.beealyzer.produce=§7Possible Produce
+for.gui.beealyzer.specialty=§7Possible Specialty
+for.gui.beealyzer=§7Beealyzer
+
+for.gui.blank=§7Blank
+for.gui.cave=§7Cave Dwelling
+for.gui.climate=§7Climate
+for.gui.cold=§7Cold
+for.gui.crop=§7Crop
+for.gui.currentBiome=§7Current Biome
+for.gui.currentOutput=§7Current Output
+for.gui.damp=§7Damp
+for.gui.derelict=§7Derelict
+for.gui.desert=§7Desert
+for.gui.didyouknow=§7Did you know
+for.gui.diurnal=§7Diurnal
+for.gui.drones=§7Drones
+for.gui.effect=§7Effect
+for.gui.empty=§7Empty
+for.gui.emptysocket=§7Empty Socket
+for.gui.socket.remove=§7Removable with a Soldering Iron
+for.gui.energy=§7Energy
+for.gui.environment=§7Environment
+for.gui.evolution=§7Evolution
+for.gui.fecundated=§7Mated
+for.gui.fertility=§7Fertility
+for.gui.fireresist=§7Fireproof
+for.gui.flowers=§7Flower Type
+for.gui.flyer=§7Tolerant Flyer
+for.gui.flyer.tooltip=§7Tolerant Flyer
+for.gui.general=§7General
+for.gui.heat=§7Heat
+for.gui.hellish=§7Hellish
+for.gui.hot=§7Hot
+for.gui.humidity=§7Humidity
+for.gui.humidtol=§7Humidity Tolerance
+for.gui.hybrid=§7Hybrid
+for.gui.icy=§7Icy
+for.gui.imprinter.cheater=§7(You Cheater!)
+for.gui.imprinter.name=§7GENOME IMPRINTER
+for.gui.inactive=§7Inactive
+for.gui.life=§7Life
+for.gui.lifespan=§7Lifespan
+for.gui.normal=§7Normal
+
+for.gui.escritoire.probe=§7Examine Specimens
+for.gui.escritoire.instructions=§7Place a genetic sample in the center to begin. Place more in the left slots and examine them for help.
+for.gui.escritoire.attempt.number=§7Attempt No. %s
+
+# Write as many notes as you like, just set the count correctly.
+
+for.gui.escritoire.notes.level1.count=§73
+for.gui.escritoire.notes.level1.1=§7I have found a curious specimen on my travels.
+for.gui.escritoire.notes.level1.2=§7This strange fellow needs further investigation.
+for.gui.escritoire.notes.level1.3=§7Elated, I wanted to start at once with my research.
+
+for.gui.escritoire.notes.level2.count=§74
+for.gui.escritoire.notes.level2.1=§7I was amazed at the wondrous nature of it.
+for.gui.escritoire.notes.level2.2=§7The specimen twitched, while I inspected it more closely.
+for.gui.escritoire.notes.level2.3=§7Strange markings on the underside made me curious.
+for.gui.escritoire.notes.level2.4=§7This will be the talk of the society when I am done investigating.
+
+for.gui.escritoire.notes.level3.count=§74
+for.gui.escritoire.notes.level3.1=§7After some prodding I discovered an interesting new lead.
+for.gui.escritoire.notes.level3.2=§7I scratched my head at this discovery and questioned everything.
+for.gui.escritoire.notes.level3.3=§7I thought my eyes deceived me, but there it was.
+for.gui.escritoire.notes.level3.4=§7A previously unseen dot led me to question the specimen's classification.
+
+for.gui.escritoire.notes.level4.count=§77
+for.gui.escritoire.notes.level4.1=§7My screams of frustration had the housekeeper look into my study in worry.
+for.gui.escritoire.notes.level4.2=§7In a frenzy and on the verge of despair, I ripped up all the notes!
+for.gui.escritoire.notes.level4.3=§7This... just doesn't make any sense!
+for.gui.escritoire.notes.level4.4=§7It just cannot be. It didn't do that before!
+for.gui.escritoire.notes.level4.5=§7The sledgehammer barely made a dent, so I sent for the chainsaw.
+for.gui.escritoire.notes.level4.6=§7I swear it was looking at me, with its beady, cruel, little eyes.
+for.gui.escritoire.notes.level4.7=§7Is that laughter? Do I hear laughter? Who is laughing here?
+
+for.gui.escritoire.notes.success.count=§75
+for.gui.escritoire.notes.success.1=§7EUREKA!
+for.gui.escritoire.notes.success.2=§7Wondrous! My name will go down in history!
+for.gui.escritoire.notes.success.3=§7My colleagues will be impressed!
+for.gui.escritoire.notes.success.4=§7I will be the envy of everyone at the society!
+for.gui.escritoire.notes.success.5=§7Yes!
+
+for.gui.escritoire.notes.failure.count=§75
+for.gui.escritoire.notes.failure.1=§7All is lost.
+for.gui.escritoire.notes.failure.2=§7I consign my notes to the fire.
+for.gui.escritoire.notes.failure.3=§7Why? I had made such great strides at first...
+for.gui.escritoire.notes.failure.4=§7Failed. Again.
+for.gui.escritoire.notes.failure.5=§7Oh my...
+
+for.gui.mail.foreveryattached=§7for every attached
+for.gui.mail.from=§7From
+for.gui.mail.nametrader=§7Name your trade station
+for.gui.mail.nothingtotrade=§7Trade station has nothing to trade.
+for.gui.mail.notrader=§7No trade station of that name available.
+for.gui.mail.pleasesend=§7Please send
+for.gui.mail.order.attached=§7Please find your order attached.
+for.gui.mail.order.filled.one=§71 order from %SENDER was filled.
+for.gui.mail.order.filled.multiple=§7%COUNT orders from %SENDER were filled.
+for.gui.mail.to=§7To
+for.gui.mail.receive=§7Receive
+for.gui.mail.send=§7Send
+
+for.gui.maxenergy=§7Maximum Energy
+for.gui.maxenergyreceive=§7Maximum Input
+for.gui.maxspeed=§7Maximum
+for.gui.metabolism=§7Metabolism
+for.gui.nether=§7Nether
+for.gui.nocturnal=§7Nocturnal
+for.gui.noeffect=§7No effect
+for.gui.owner=§7Owner
+for.gui.page=§7Page
+
+for.gui.pipe.filter.anything=§7Anything
+for.gui.pipe.filter.bee=§7Any Bees
+for.gui.pipe.filter.cave=§7Cave-Dwellers
+for.gui.pipe.filter.closed=§7Closed
+for.gui.pipe.filter.drone=§7Drones
+for.gui.pipe.filter.flyer=§7Strong Flyers
+for.gui.pipe.filter.item=§7Items
+for.gui.pipe.filter.nocturnal=§7Nocturnal Bees
+for.gui.pipe.filter.princess=§7Princesses
+for.gui.pipe.filter.pure_breed=§7Pure-Bred Bees
+for.gui.pipe.filter.pure_cave=§7Pure Cave-Dwellers
+for.gui.pipe.filter.pure_flyer=§7Pure Flyers
+for.gui.pipe.filter.pure_nocturnal=§7Pure Nocturnal Bees
+for.gui.pipe.filter.queen=§7Queen
+
+for.gui.plains=§7Plains
+for.gui.princesses=§7Princ.
+for.gui.produce=§7Produce
+for.gui.queens=§7Queens
+
+for.gui.rule.private=§7Private
+for.gui.rule.restricted=§7Restricted
+for.gui.rule.shared=§7Shared
+
+for.gui.solder.north=§7N
+for.gui.solder.south=§7S
+for.gui.solder.east=§7E
+for.gui.solder.west=§7W
+
+forestry.allele.average=§7Average
+forestry.allele.gigantic=§7Gigantic
+forestry.allele.normal=§7Normal
+
+forestry.allele.slowest=§7Slowest
+forestry.allele.slower=§7Slower
+forestry.allele.slow=§7Slow
+forestry.allele.fast=§7Fast
+forestry.allele.faster=§7Faster
+forestry.allele.fastest=§7Fastest
+forestry.allele.maximum=§7Maximum
+
+forestry.allele.smallest=§7Smallest
+forestry.allele.smaller=§7Smaller
+forestry.allele.small=§7Small
+forestry.allele.large=§7Large
+forestry.allele.larger=§7Larger
+forestry.allele.largest=§7Largest
+
+forestry.allele.lowest=§7Lowest
+forestry.allele.lower=§7Lower
+forestry.allele.low=§7Low
+forestry.allele.high=§7High
+forestry.allele.higher=§7Higher
+forestry.allele.highest=§7Highest
+
+forestry.allele.tolerance.both1=§7Both 1
+forestry.allele.tolerance.both2=§7Both 2
+forestry.allele.tolerance.both3=§7Both 3
+forestry.allele.tolerance.both4=§7Both 4
+forestry.allele.tolerance.both5=§7Both 5
+forestry.allele.tolerance.down1=§7Down 1
+forestry.allele.tolerance.down2=§7Down 2
+forestry.allele.tolerance.down3=§7Down 3
+forestry.allele.tolerance.down4=§7Down 4
+forestry.allele.tolerance.down5=§7Down 5
+forestry.allele.tolerance.none=§7None
+forestry.allele.tolerance.up1=§7Up 1
+forestry.allele.tolerance.up2=§7Up 2
+forestry.allele.tolerance.up3=§7Up 3
+forestry.allele.tolerance.up4=§7Up 4
+forestry.allele.tolerance.up5=§7Up 5
+
+forestry.allele.lifespan.shortest=§7Shortest
+forestry.allele.lifespan.shorter=§7Shorter
+forestry.allele.lifespan.short=§7Short
+forestry.allele.lifespan.shortened=§7Shortened
+forestry.allele.lifespan.normal=§7Normal
+forestry.allele.lifespan.elongated=§7Elongated
+forestry.allele.lifespan.long=§7Long
+forestry.allele.lifespan.longer=§7Longer
+forestry.allele.lifespan.longest=§7Longest
+
+for.gui.size=§7Size
+for.gui.slots=§7%USED/%SIZE Slots
+for.gui.species=§7Species
+for.gui.speciescount=§7Species
+for.gui.speed=§7Production
+for.gui.pollination=§7Pollination
+for.gui.stored=§7Stored
+for.gui.temperature=§7Temperature
+for.gui.tolerance=§7Tolerance
+for.gui.temptol=§7Temperature Tol.
+for.gui.tooltip.tmi=§7Hold shift for details
+for.gui.triple=§7Triple
+for.gui.unknown=§7Unknown genome
+for.gui.warm=§7Warm
+for.gui.water=§7Water
+for.gui.worker=§7Worker
+
+for.hints.accesscontrol.desc=§7A machine's owner can set it to three different types of access: Shared, restricted or private.
+for.hints.accesscontrol.tag=§7Access Control
+for.hints.accesspipe.desc=§7A machine set to private will disallow any interaction with tubes or pipes.
+for.hints.accesspipe.tag=§7Restricted Pipe Access
+for.hints.accessrules.desc=§7"Shared" access allows anyone to break the machine or interact with it. "Restricted" still allows interaction for anyone.
+for.hints.accessrules.tag=§7Access rules
+for.hints.apiaristsuit.desc=§7A full apiarist's suit will protect you from all negative bee effects.
+for.hints.apiaristsuit.tag=§7Bee Suits!
+for.hints.beebiomes.desc=§7Bees only work in biomes that suit their species. Use your beealyzer and habitat locator to find out in which.
+for.hints.beebiomes.tag=§7Choose your biome!
+for.hints.beebreeding.desc=§7Crossbreeding drones and princesses of different species may net you offspring with a new species.
+for.hints.beebreeding.tag=§7Breed your bees!
+for.hints.beeflowers.desc=§7Any bee will need some type of flower in the vicinity. Some rather mundane flowers, others very exotic ones.
+for.hints.beeflowers.tag=§7Bees need flowers
+for.hints.beejubilance.desc=§7Only jubilant bees will produce their specialty. Make sure to have them in their preferred climate.
+for.hints.beejubilance.tag=§7Make your bee happy!
+for.hints.cooldownloss.desc=§7Engines going into forced cooldown will also lose a significant chunk of their stored energy.
+for.hints.cooldownloss.tag=§7Cooldown means energy loss!
+for.hints.crating.desc=§7Main task of carpenters is the compression of your surplus resources. Many bulk blocks and items can be packaged into crates.
+for.hints.crating.tag=§7Crate your Surplus!
+for.hints.energybuffer.desc=§7Engines are capable of buffering a lesser amount of energy if it cannot be transmitted to the target.
+for.hints.energybuffer.tag=§7Buffering Energy!
+for.hints.energyunit.desc=§7An engine's energy output is measured in RF/t, which stands for "Redstone Flux per tick". Each second has 20 ticks.
+for.hints.energyunit.tag=§7Say Redstone Flux!
+for.hints.enginebronzefuels.desc=§7You can use a wide variety of fuels for your biogas engine: Biomass, seed oil, honey, milk and even water!
+for.hints.enginebronzefuels.tag=§7Use all the fuels!
+for.hints.enginebronzeheatloss.desc=§7Though you can use water in a biogas engine, it is terribly inefficient and will constantly consume lava.
+for.hints.enginebronzeheatloss.tag=§7Careful with water!
+for.hints.enginebronzeoutput.desc=§7Different fuels will net you different energy outputs in a biogas engine. Outputs range from 10 RF/t to 50 RF/t.
+for.hints.enginebronzeoutput.tag=§7Choose your fuel!
+for.hints.enginebronzewaste.desc=§7Contrary to peat-fired engines disabled biogas engines will not waste the biomass currently in the system.
+for.hints.enginebronzewaste.tag=§7Fuel is conserved.
+for.hints.enginecopperfuels.desc=§7Peat-fired engines can use untreated peat, but they can also use bituminous peat to double their energy output.
+for.hints.enginecopperfuels.tag=§7Use all the fuels!
+for.hints.enginecopperwaste.desc=§7Disabled peat-fired engines continue to burn peat already removed from the stash without generating energy from it.
+for.hints.enginecopperwaste.tag=§7Beware wasting energy!
+for.hints.enginetinbatteries.desc=§7You can use batteries to run your electrical engines without needing to wire them up.
+for.hints.enginetinbatteries.tag=§7Charge those batteries!
+for.hints.enginetinchoke.desc=§7Electrical engines can be outfitted with circuit boards to choke their power output to 10 RF/t and also reduce their energy demand.
+for.hints.enginetinchoke.tag=§7Regulate Output
+for.hints.flowerjungle.desc=§7Jungle flowers are ferns or vines.
+for.hints.flowerjungle.tag=§7What's a jungle flower?
+for.hints.flowernether.desc=§7Netherwart are the nether flowers.
+for.hints.flowernether.tag=§7What's a nether flower?
+for.hints.forcedcooldown.desc=§7Engines can overheat if the energy they produce is not consumed. Reaching melting point will force them into cooldown.
+for.hints.forcedcooldown.tag=§7Beware Overheating!
+for.hints.generatorfuels.desc=§7Bio generators accept both biomass and biofuel. They are at their most efficient with biofuel.
+for.hints.generatorfuels.tag=§7Use all the fuels!
+for.hints.habitatlocatoruse.desc=§7After some time, the Habitat Locator will point straight to the nearest suitable biome. When found, the indicator will spin.
+for.hints.habitatlocatoruse.tag=§7Habitat Locator 101!
+for.hints.honeyfood.desc=§7Many different kinds of foods can be made from honey and other bee products.
+for.hints.honeyfood.tag=§7Grab foodstuff!
+for.hints.manualpeat.desc=§7Peat can be farmed in automatic peat bogs, but when you start out, you might want to try harvesting a bit of peat by hand.
+for.hints.manualpeat.tag=§7No Bog Needed!
+for.hints.moistenerproducts.desc=§7Given the correct ingredients, your moistener can also create mossy cobblestone or mossy stone bricks.
+for.hints.moistenerproducts.tag=§7Want some mossy cobble?
+for.hints.nopowerrequired.desc=§7Machines of this type do not require any power to operate.
+for.hints.nopowerrequired.tag=§7No power required
+for.hints.peatharvest.desc=§7Bog earth directly adjacent to water will mature to peat. Use a shovel to harvest it.
+for.hints.peatharvest.tag=§7Harvest Peat!
+for.hints.pipette.desc=§7If you are stuck with remaining liquid in a machine's tank, you can click the tank with a pipette to empty it.
+for.hints.pipette.tag=§7Empty tanks with the pipette
+for.hints.postage.desc=§7Sending letters costs stamps. To a base fee of 1n, every attachment adds another 1n of cost.
+for.hints.postage.tag=§7Pay the Ferryman
+for.hints.powerraintank.desc=§7Even an unpowered raintank will collect rain. However to bottle the water, energy from an engine is required.
+for.hints.powerraintank.tag=§7Bottling Requires Energy!
+for.hints.powerrequired.desc=§7This machine requires energy from an engine to function. Attach an engine and start it, to allow production.
+for.hints.powerrequired.tag=§7Requires Energy!
+for.hints.shortmead.desc=§7Your fermenter can not only create biomass, you can also use honeydew and liquid honey to make some short mead.
+for.hints.shortmead.tag=§7Get your energy drink!
+for.hints.usesofash.desc=§7Ash can be used to create fertilizer and is required to refine bituminous peat.
+for.hints.usesofash.tag=§7Use your ash!
+
+for.item.crated.grammar=§7Crated %s
+for.item.crated.unknown=§7Crate with unknown content
+
+for.no=§7No
+
+for.researchNote.chance.highest=§7HIGHEST
+for.researchNote.chance.higher=§7HIGHER
+for.researchNote.chance.high=§7HIGH
+for.researchNote.chance.normal=§7NORMAL
+for.researchNote.chance.low=§7LOW
+for.researchNote.chance.lowest=§7LOWEST
+for.researchNote.error.0=§7It is impossible to decipher the washed out scribbles.
+for.researchNote.error.1=§7The note has become unreadable and is worthless.
+for.researchNote.discovered.0=§7§aSpecies researched!
+for.researchNote.discovered.1=§7§e'%1$s'§7 (%2$s)
+for.researchNote.discovery.0=§7§aMutation discovered!
+for.researchNote.discovery.1=§7§e'%SPEC1'§7 and §e'%SPEC2'§7.
+for.researchNote.discovery.2=§7Chance for success is §9%s§7.
+for.researchNote.discovery.3=§7New species is §d'%s'§7.
+
+for.mutation.condition.biome.single=§7Occurs within a %s biome.
+for.mutation.condition.biome.multiple=§7Occurs within biomes like: %s
+for.mutation.condition.daytime.day=§7During the day.
+for.mutation.condition.daytime.night=§7During the night.
+for.mutation.condition.humidity.range=§7Requires humidity between %LOW and %HIGH.
+for.mutation.condition.humidity.single=§7Requires %s humidity.
+for.mutation.condition.temperature.range=§7Requires temperature between %LOW and %HIGH.
+for.mutation.condition.temperature.single=§7Requires %s temperature.
+for.mutation.condition.resource=§7Requires %s as a foundation.
+for.mutation.condition.date=§7Occurs between %START and %END.
+
+for.storage.backpack.mode.locked=§7(LOCKED)
+for.storage.backpack.mode.receiving=§7(RECEIVING)
+for.storage.backpack.mode.resupply=§7(RESUPPLY)
+
+for.trigger.hasMail=§7Has Mail
+for.trigger.hasWork=§7Has Work
+for.trigger.lowFuel=§7Fuel
+for.trigger.lowGermlings=§7Germlings
+for.trigger.lowInput=§7Input
+for.trigger.lowPaper=§7Paper
+for.trigger.lowResources=§7Resources
+for.trigger.lowStamps=§7Stamps
+for.trigger.mailBuffer=§7Buffer
+for.trigger.missingDrone=§7Missing Drone
+for.trigger.missingQueen=§7Missing Queen or Princess
+for.trigger.noFrames=§7No Frames
+
+for.yes=§7Yes
+
+item.for.adventurerBag.name=§7Adventurer's Backpack
+item.for.adventurerBagT2.name=§7Adventurer's Woven Backpack
+item.for.ambrosia.name=§7Ambrosia
+item.for.apatite.name=§7Apatite
+
+item.for.apiaristBag.name=§7Apiarist's Backpack
+item.for.apiaristBoots.name=§7Apiarist's Shoes
+item.for.apiaristChest.name=§7Apiarist's Shirt
+item.for.apiaristHelmet.name=§7Apiarist's Hat
+item.for.apiaristLegs.name=§7Apiarist's Pants
+
+item.for.ash.name=§7Ash
+
+item.for.beealyzer.name=§7Beealyzer
+item.for.habitatLocator.name=§7Habitat Locator
+
+item.for.cart.beehouse.name=§7Minecart with Bee House
+item.for.cart.apiary.name=§7Minecart with Apiary
+
+item.for.beeCombs.cocoa.name=§7Cocoa Comb
+item.for.beeCombs.darkened.name=§7Darkened Comb
+item.for.beeCombs.dripping.name=§7Dripping Comb
+item.for.beeCombs.frozen.name=§7Frozen Comb
+item.for.beeCombs.honey.name=§7Honey Comb
+item.for.beeCombs.irradiated.name=§7Irradiated Comb
+item.for.beeCombs.mellow.name=§7Mellow Comb
+item.for.beeCombs.mossy.name=§7Mossy Comb
+item.for.beeCombs.mysterious.name=§7Mysterious Comb
+item.for.beeCombs.omega.name=§7Omega Comb
+item.for.beeCombs.parched.name=§7Parched Comb
+item.for.beeCombs.powdery.name=§7Powdery Comb
+item.for.beeCombs.reddened.name=§7Reddened Comb
+item.for.beeCombs.silky.name=§7Silky Comb
+item.for.beeCombs.simmering.name=§7Simmering Comb
+item.for.beeCombs.stringy.name=§7Stringy Comb
+item.for.beeCombs.wheaten.name=§7Wheaten Comb
+
+item.for.beeswax.name=§7Beeswax
+
+item.for.beverage.meadCurative.name=§7Curative Mead
+item.for.beverage.meadShort.name=§7Short Mead
+item.for.beverage.mead.name=§7Mead
+
+item.for.biomeFinder.name=§7Habitat Locator
+item.for.bituminousPeat.name=§7Bituminous Peat
+item.for.brokenBronzePickaxe.name=§7Broken Pickaxe
+item.for.brokenBronzeShovel.name=§7Broken Shovel
+item.for.bronzePickaxe.name=§7Survivalist's Pickaxe
+item.for.bronzeShovel.name=§7Survivalist's Shovel
+item.for.builderBag.name=§7Builder's Backpack
+item.for.builderBagT2.name=§7Builder's WovenBackpack
+
+item.for.bucketEthanol.name=§7Ethanol Bucket
+item.for.bucketBiomass.name=§7Biomass Bucket
+item.for.bucketHoney.name=§7Honey Bucket
+item.for.bucketIce.name=§7Crushed Ice Bucket
+item.for.bucketJuice.name=§7Juice Bucket
+item.for.bucketSeedOil.name=§7Seed Oil Bucket
+item.for.bucketGlass.name=§7Molten Glass Bucket
+item.for.bucketShortMead.name=§7Short Mead Bucket
+item.for.bucketMead.name=§7Mead Bucket
+
+item.for.canEmpty.name=§7Can
+item.for.canEthanol.name=§7Ethanol Can
+item.for.canBiomass.name=§7Biomass Can
+item.for.canFuel.name=§7Fuel Can
+item.for.canHoney.name=§7Honey Can
+item.for.canIce.name=§7Ice Can
+item.for.canJuice.name=§7Juice Can
+item.for.canLava.name=§7Lava Can
+item.for.canMead.name=§7Mead Can
+item.for.canOil.name=§7Oil Can
+item.for.canSeedOil.name=§7Seed Oil Can
+item.for.canShortMead.name=§7Short Mead Can
+item.for.carton.name=§7Carton
+
+item.for.circuitboard.basic.name=§7Basic Circuit Board
+item.for.circuitboard.enhanced.name=§7Enhanced Circuit Board
+item.for.circuitboard.intricate.name=§7Intricate Circuit Board
+item.for.circuitboard.refined.name=§7Refined Circuit Board
+
+item.for.craftingMaterial.dissipationCharge.name=§7Dissipation Charge
+item.for.craftingMaterial.iceShard.name=§7Ice Shard
+item.for.craftingMaterial.pulsatingDust.name=§7Pulsating Dust
+item.for.craftingMaterial.pulsatingMesh.name=§7Pulsating Mesh
+item.for.craftingMaterial.scentedPaneling.name=§7Scented Paneling
+item.for.craftingMaterial.silkWisp.name=§7Silk Wisp
+item.for.craftingMaterial.wovenSilk.name=§7Woven Silk
+
+item.for.crate.name=§7Crate
+item.for.decayingWheat.name=§7Decaying Wheat
+item.for.diggerBag.name=§7Digger's Backpack
+item.for.diggerBagT2.name=§7Digger's Woven Backpack
+
+item.for.fertilizerBio.name=§7Compost
+item.for.fertilizerCompound.name=§7Fertilizer
+item.for.foresterBag.name=§7Forester's Backpack
+item.for.foresterBagT2.name=§7Forester's Woven Backpack
+
+item.for.frameImpregnated.name=§7Impregnated Frame
+item.for.frameProven.name=§7Proven Frame
+item.for.frameUntreated.name=§7Untreated Frame
+
+item.for.fruits.cherry.name=§7Cherry
+item.for.fruits.chestnut.name=§7Chestnut
+item.for.fruits.dates.name=§7Date
+item.for.fruits.lemon.name=§7Lemon
+item.for.fruits.papaya.name=§7Papaya
+item.for.fruits.plum.name=§7Plum
+item.for.fruits.walnut.name=§7Walnut
+
+item.for.gearBronze.name=§7Bronze Gear
+item.for.gearCopper.name=§7Copper Gear
+item.for.gearTin.name=§7Tin Gear
+
+item.for.hardenedMachine.name=§7Hardened Casing
+
+item.for.honeydew.name=§7Honeydew
+
+item.for.honeyDrop.charged.name=§7Charged Drop
+item.for.honeyDrop.honey.name=§7Honey Drop
+item.for.honeyDrop.omega.name=§7Omega Drop
+item.for.honeyedSlice.name=§7Honeyed Slice
+
+item.for.honeyPot.name=§7Honey Pot
+item.for.hunterBag.name=§7Hunter's Backpack
+item.for.hunterBagT2.name=§7Hunter's Woven Backpack
+
+item.for.impregnatedCasing.name=§7Impregnated Casing
+item.for.imprinter.name=§7Imprinter
+item.for.infuser.name=§7Infuser
+
+item.for.ingotBronze.name=§7Bronze Ingot
+item.for.ingotCopper.name=§7Copper Ingot
+item.for.ingotTin.name=§7Tin Ingot
+
+item.for.iodineCapsule.name=§7Iodine Capsule
+item.for.kitPickaxe.name=§7Pickaxe Kit
+item.for.kitShovel.name=§7Shovel Kit
+item.for.letters.name=§7Letter
+
+item.for.minerBag.name=§7Miner's Backpack
+item.for.minerBagT2.name=§7Miner's Woven Backpack
+
+item.for.mouldyWheat.name=§7Mouldy Wheat
+item.for.mulch.name=§7Mulch
+item.for.naturalistHelmet.name=§7Spectacles
+item.for.oakStick.name=§7Impregnated Stick
+item.for.peat.name=§7Peat
+item.for.phosphor.name=§7Phosphor
+item.for.pipette.name=§7Pipette
+
+item.for.pollen.crystalline.name=§7Crystalline Pollen Cluster
+item.for.pollen.normal.name=§7Pollen Cluster
+
+item.for.propolis.normal.name=§7Propolis
+item.for.propolis.pulsating.name=§7Pulsating Propolis
+item.for.propolis.silky.name=§7Silky Propolis
+item.for.propolis.sticky.name=§7Sticky Propolis
+
+item.for.refractoryEthanol.name=§7Ethanol Capsule
+item.for.refractoryBiomass.name=§7Biomass Capsule
+item.for.refractoryEmpty.name=§7Refractory Capsule
+item.for.refractoryFuel.name=§7Fuel Capsule
+item.for.refractoryHoney.name=§7Honey Capsule
+item.for.refractoryIce.name=§7Ice Capsule
+item.for.refractoryJuice.name=§7Juice Capsule
+item.for.refractoryLava.name=§7Lava Capsule
+item.for.refractoryMead.name=§7Mead Capsule
+item.for.refractoryOil.name=§7Oil Capsule
+item.for.refractorySeedOil.name=§7Seed Oil Capsule
+item.for.refractoryShortMead.name=§7Short Mead Capsule
+item.for.refractoryWater.name=§7Water Capsule
+item.for.refractoryWax.name=§7Refractory Wax
+
+item.for.researchNote.name=§7%s's Notes
+item.for.royalJelly.name=§7Royal Jelly
+item.for.scoop.name=§7Scoop
+item.for.solderingIron.name=§7Soldering Iron
+
+item.for.stamps.1n.name=§7Stamp (1n)
+item.for.stamps.2n.name=§7Stamp (2n)
+item.for.stamps.5n.name=§7Stamp (5n)
+item.for.stamps.10n.name=§7Stamp (10n)
+item.for.stamps.20n.name=§7Stamp (20n)
+item.for.stamps.50n.name=§7Stamp (50n)
+item.for.stamps.100n.name=§7Stamp (100n)
+item.for.stamps.name=§7Stamp
+
+item.for.sturdyMachine.name=§7Sturdy Casing
+item.for.tent.name=§7Survivalist's Tent
+
+item.for.thermionicTubes.ex-0.name=§7Copper Electron Tube
+item.for.thermionicTubes.ex-1.name=§7Tin Electron Tube
+item.for.thermionicTubes.ex-2.name=§7Bronze Electron Tube
+item.for.thermionicTubes.ex-3.name=§7Iron Electron Tube
+item.for.thermionicTubes.ex-4.name=§7Golden Electron Tube
+item.for.thermionicTubes.ex-5.name=§7Diamantine Electron Tube
+item.for.thermionicTubes.ex-6.name=§7Obsidian Electron Tube
+item.for.thermionicTubes.ex-7.name=§7Blazing Electron Tube
+item.for.thermionicTubes.ex-8.name=§7Rubberised Electron Tube
+item.for.thermionicTubes.ex-9.name=§7Emerald Electron Tube
+item.for.thermionicTubes.ex-10.name=§7Apatine Electron Tube
+item.for.thermionicTubes.ex-11.name=§7Lapis Electron Tube
+item.for.thermionicTubes.ex-12.name=§7Ender Electron Tube
+item.for.thermionicTubes.ex-13.name=§7Uranium238 Electron Tube
+
+item.for.treealyzer.name=§7Treealyzer
+
+item.for.canWater.name=§7Water Can
+
+item.for.waxCapsule.name=§7Wax Capsule
+item.for.waxCapsuleEthanol.name=§7Ethanol Capsule
+item.for.waxCapsuleBiomass.name=§7Biomass Capsule
+item.for.waxCapsuleFuel.name=§7Fuel Capsule
+item.for.waxCapsuleHoney.name=§7Honey Capsule
+item.for.waxCapsuleIce.name=§7Ice Capsule
+item.for.waxCapsuleJuice.name=§7Juice Capsule
+item.for.waxCapsuleMead.name=§7Mead Capsule
+item.for.waxCapsuleOil.name=§7Oil Capsule
+item.for.waxCapsuleSeedOil.name=§7Seed Oil Capsule
+item.for.waxCapsuleShortMead.name=§7Short Mead Capsule
+item.for.waxCapsuleWater.name=§7Water Capsule
+item.for.waxCast.name=§7Wax Cast
+
+item.for.woodPulp.name=§7Wood Pulp
+item.for.wrench.name=§7Wrench
+
+itemGroup.apiculture=§7Apiculture
+itemGroup.arboriculture=§7Arboriculture
+itemGroup.forestry=§7Forestry
+itemGroup.lepidopterology=§7Lepidopterology
+
+tile.for.core.0.name=§7Analyzer
+tile.for.core.1.name=§7Escritoire
+
+tile.for.engine.0.name=§7Electrical Engine
+tile.for.engine.1.name=§7Peat-fired Engine
+tile.for.engine.2.name=§7Biogas Engine
+tile.for.engine.3.name=§7Bio Generator
+tile.for.engine.4.name=§7Clockwork Engine
+
+tile.for.factory.0.name=§7Bottler
+tile.for.factory.1.name=§7Carpenter
+tile.for.factory.2.name=§7Centrifuge
+tile.for.factory.3.name=§7Fermenter
+tile.for.factory.4.name=§7Moistener
+tile.for.factory.5.name=§7Squeezer
+tile.for.factory.6.name=§7Still
+tile.for.factory.7.name=§7Rainmaker
+tile.for.factory2.0.name=§7Thermionic Fabricator
+tile.for.factory2.1.name=§7Raintank
+tile.for.factory2.2.name=§7Worktable
+
+tile.for.mail.0.name=§7Mailbox
+tile.for.mail.1.name=§7Trade Station
+tile.for.mail.2.name=§7Stamp Collector
+
+tile.for.resources.0.name=§7Apatite Ore
+tile.for.resources.1.name=§7Copper Ore
+tile.for.resources.2.name=§7Tin Ore
+
+tile.for.resourceStorage.0.name=§7Block of Apatite
+tile.for.resourceStorage.1.name=§7Block of Copper
+tile.for.resourceStorage.2.name=§7Block of Tin
+tile.for.resourceStorage.3.name=§7Block of Bronze
+
+tile.for.soil.0.name=§7Humus
+tile.for.soil.1.name=§7Bog Earth
+tile.for.soil.2.name=§7Peat
+
+tile.for.stained.0.name=§7White Stained Glass
+tile.for.stained.1.name=§7Orange Stained Glass
+tile.for.stained.2.name=§7Magenta Stained Glass
+tile.for.stained.3.name=§7Light Blue Stained Glass
+tile.for.stained.4.name=§7Yellow Stained Glass
+tile.for.stained.5.name=§7Lime Stained Glass
+tile.for.stained.6.name=§7Pink Stained Glass
+tile.for.stained.7.name=§7Gray Stained Glass
+tile.for.stained.8.name=§7Light Gray Stained Glass
+tile.for.stained.9.name=§7Cyan Stained Glass
+tile.for.stained.10.name=§7Purple Stained Glass
+tile.for.stained.11.name=§7Blue Stained Glass
+tile.for.stained.12.name=§7Brown Stained Glass
+tile.for.stained.13.name=§7Green Stained Glass
+tile.for.stained.14.name=§7Red Stained Glass
+tile.for.stained.15.name=§7Black Stained Glass
+
+neiintegration.chance=§7Chance: %s
+neiintegration.chance.never=§7Never
+neiintegration.chance.lessThan1=§7<1%
+neiintegration.handler.forestry.shaped=§7Forestry Shaped
+neiintegration.handler.forestry.shapeless=§7Forestry Shapeless
+neiintegration.handler.forestry.fabricator.worth=§7Worth:
+
+################
+# ERRORS
+################
+
+# BEES
+for.errors.isRaining.desc=§7Rain
+for.errors.isRaining.help=§7Only tolerant fliers can work in the rain.
+for.errors.noDrone.desc=§7No drone
+for.errors.noDrone.help=§7Mating requires a drone present.
+for.errors.noFlower.desc=§7No flowers
+for.errors.noFlower.help=§7Hive members are not finding the right flowers. Use the Beealyzer to learn their flower preference.
+for.errors.noQueen.desc=§7No queen
+for.errors.noQueen.help=§7Supply this hive with a queen or a princess and a drone.
+for.errors.noSky.desc=§7Sky obstructed
+for.errors.noSky.help=§7The hive requires direct sunlight from above.
+for.errors.notDay.desc=§7Not daytime
+for.errors.notDay.help=§7The bees can only work during the daytime.
+for.errors.notGloomy.desc=§7Not dark enough
+for.errors.notGloomy.help=§7The bees can only work in darkness.
+for.errors.notLucid.desc=§7Not bright enough
+for.errors.notLucid.help=§7The bees have trouble navigating in the dark.
+for.errors.notNight.desc=§7Not nighttime
+for.errors.notNight.help=§7The bees can only work during the night.
+for.errors.tooHot.desc=§7Too Hot
+for.errors.tooHot.help=§7The bees are melting in the heat here and unable to work. Use a Habitat Locator to find a cooler climate.
+for.errors.tooCold.desc=§7Too Cold
+for.errors.tooCold.help=§7The bees are huddled together to survive the freezing cold here. Use a Habitat Locator to find a warmer climate.
+for.errors.tooHumid.desc=§7Too Humid
+for.errors.tooHumid.help=§7The climate here has made the bees' wings too damp to fly. Use a Habitat Locator to find a dryer climate.
+for.errors.tooArid.desc=§7Too Dry
+for.errors.tooArid.help=§7The dry climate here has made the bees parched and unable to work. Use a Habitat Locator to find a wetter climate.
+
+# MACHINES
+for.errors.noPower.desc=§7No Power
+for.errors.noPower.help=§7This machine requires RF energy from an engine to function.
+for.errors.noRedstone.desc=§7Requires Redstone
+for.errors.noRedstone.help=§7This machine requires a redstone signal to activate it.
+for.errors.disabledRedstone.desc=§7Disabled by Redstone
+for.errors.disabledRedstone.help=§7This machine is being disabled by a redstone signal.
+for.errors.noRecipe.desc=§7No recipe
+for.errors.noRecipe.help=§7No matching recipe was found for the supplied resources.
+for.errors.noResource.desc=§7Missing resources
+for.errors.noResource.help=§7More resources need to be supplied for operation.
+for.errors.noResourceInventory.desc=§7Inventory needs resources
+for.errors.noResourceInventory.help=§7Resources need to be added to the machine's inventory to begin crafting this recipe.
+for.errors.noResourceLiquid.desc=§7Missing liquid resources
+for.errors.noResourceLiquid.help=§7More liquid resources need to be supplied for operation.
+for.errors.noSpace.desc=§7No inventory space
+for.errors.noSpace.help=§7Empty this machine's inventory.
+for.errors.noSpaceTank.desc=§7No tank space
+for.errors.noSpaceTank.help=§7Empty this machine's liquid tank.
+for.errors.notDark.desc=§7Not dark enough
+for.errors.notDark.help=§7A lower light level is required for operation.
+
+# RAIN TANK
+for.errors.notRaining.desc=§7No rain
+for.errors.notRaining.help=§7Operation is only possible when it is raining.
+for.errors.noRainBiome.desc=§7Never rains
+for.errors.noRainBiome.help=§7This location never receives rain.
+for.errors.noSkyRainTank.desc=§7Sky obstructed
+for.errors.noSkyRainTank.help=§7Clear the area above this machine so it can gather rain.
+
+# ALYZERS
+for.errors.noHoney.desc=§7Honey required
+for.errors.noHoney.help=§7This gadget requires honey drops or honeydew for operation.
+for.errors.noSpecimen.desc=§7Nothing to analyze
+for.errors.noSpecimen.help=§7Supply a specimen to analyze.
+
+# ENGINES
+for.errors.forcedCooldown.desc=§7Forced Cooldown
+for.errors.forcedCooldown.help=§7The engine has overheated and must cool down before it can start again.
+for.errors.noEnergyNet.desc=§7No electricity
+for.errors.noEnergyNet.help=§7Your world is barren of any electricity. (Install IndustrialCraft\u00b2.)
+for.errors.noFuel.desc=§7No fuel
+for.errors.noFuel.help=§7This engine requires fuel to run. Replenish this machine's fuel supplies.
+for.errors.noHeat.desc=§7Not warmed up
+for.errors.noHeat.help=§7This engine requires a heat source to run. Refill the heating tank.
+
+# TRADE STATION
+for.errors.noStamps.desc=§7Need Stamps
+for.errors.noStamps.help=§7The trade station requires more stamps to pay postage.
+for.errors.noPaper.desc=§7Need Paper
+for.errors.noPaper.help=§7The trade station requires more paper to send letters.
+for.errors.noSupplies.desc=§7Need Supplies
+for.errors.noSupplies.help=§7The trade station requires more supplies to send.
+for.errors.noTrade.desc=§7No Trade Set
+for.errors.noTrade.help=§7The trade station requires items to Send and Receive.
+
+# TRADE STATION NAMING
+for.errors.notAlphaNumeric.desc=§7Invalid Name
+for.errors.notAlphaNumeric.help=§7A Trade Station name must consist of letters and numbers only.
+for.errors.notUnique.desc=§7Not Unique
+for.errors.notUnique.help=§7Trade Station names must be unique and this name is already taken.
+
+# LETTERS
+for.errors.noRecipient.desc=§7No Recipient
+for.errors.noRecipient.help=§7You need to address your letter to a recipient to send it.
+for.errors.notPostpaid.desc=§7Stamps Needed
+for.errors.notPostpaid.help=§7Apply more stamps to pay the postal service.
+
+# CIRCUIT BOARDS
+for.errors.circuitMismatch.desc=§7Layout Mismatch
+for.errors.circuitMismatch.help=§7Amount of tubes does not match size of circuit board.
+for.errors.noCircuitBoard.desc=§7Board Missing
+for.errors.noCircuitBoard.help=§7Insert a circuit board to solder the selected tubes onto it.
+for.errors.noCircuitLayout.desc=§7No Layouts Found
+for.errors.noCircuitLayout.help=§7No layouts available due to the current game settings.
+
+# FARMS
+for.errors.noFarmland.desc=§7No Farmland
+for.errors.noFarmland.help=§7Smooth sandstone, bricks or stone bricks create a platform the farm will build on.
+for.errors.noFertilizer.desc=§7No Fertilizer
+for.errors.noFertilizer.help=§7Farms require fertilizer for function. Compost is insufficient.
+for.errors.noLiquid.desc=§7No Water
+for.errors.noLiquid.help=§7Depending on rainfall, temperature and humidity farms need to be supplied with varying amounts of water.
+
+# DEPRECATED
+for.errors.invalidBiome.desc=§7Hostile environment
+for.errors.invalidBiome.help=§7Machine or inhabitants cannot work in this biome.
+for.errors.noDisposal.desc=§7Waste not disposable
+for.errors.noDisposal.help=§7Insufficient space to dispose of waste products.
+for.errors.unknown.desc=§7Unknown error
+for.errors.unknown.help=§7Congratulations, you found a glitch.
+for.errors.wrongStacksize.desc=§7Too Many Items
+for.errors.wrongStacksize.help=§7Only single items can be used here.
+
+####################
+# APICULTURE
+####################
+
+entity.Villager.apiarist=§7Apiarist
+
+death.bee.aggressive.player=§7%1$s encountered a swarm of bees. %2$s stole his apiarist's suit.
+death.bee.aggressive=§7%1$s encountered a swarm of bees. That had to sting.
+death.bee.end.player=§7%1$s was ended by an unfriendly sting while fighting %2$s.
+death.bee.end=§7%1$s was ended by an unfriendly sting.
+death.bee.radioactive.player=§7%1$s walked into Chernobyl without his helmet on. %2$s watched and cackled.
+death.bee.radioactive=§7%1$s walked into Chernobyl without his helmet on.
+death.bee.heroic.player=§7%1$s was slain by heroic bees! %2$s is forever in their debt.
+death.bee.heroic=§7%1$s was slain by heroic bees!
+
+forestry.allele.effect.aggressive=§7Aggress.
+forestry.allele.effect.beatific=§7Beatific
+forestry.allele.effect.creeper=§7Creeper
+forestry.allele.effect.drunkard=§7Drunkard
+forestry.allele.effect.exploration=§7Explorer
+forestry.allele.effect.glacial=§7Freezing
+forestry.allele.effect.fertile=§7Fertile
+forestry.allele.effect.festiveEaster=§7Festive
+forestry.allele.effect.heroic=§7Heroic
+forestry.allele.effect.ignition=§7Flammable
+forestry.allele.effect.misanthrope=§7Ends
+forestry.allele.effect.miasmic=§7Poison
+forestry.allele.effect.mycophilic=§7Mycophilic
+forestry.allele.effect.none=§7None
+forestry.allele.effect.radioactive=§7Radioact.
+forestry.allele.effect.reanimation=§7Reanimation
+forestry.allele.effect.repulsion=§7Repulsion
+forestry.allele.effect.resurrection=§7Resurrection
+forestry.allele.effect.snowing=§7Snow
+
+for.beemode.easy.desc=§7Simplifies beebreeding by drastically increasing mutation rate and removing the chance for genetic fatigue.
+for.beemode.hard.desc=§7Reducing mutation rate slightly while increasing lifespan of individual queens by 50%%.
+for.beemode.hardcore.desc=§7Halves mutation rate, increases lifespan of individual queens by 500%% and reduces fertility by 20%%.
+for.beemode.insane.desc=§7Cuts mutation rate to 20%%, increases lifespan tenfold and reduces fertility by 40%%.
+for.beemode.normal.desc=§7Recommended mode for the normal player.
+
+for.bees.grammar.drone.type=§7Drone
+for.bees.grammar.drone=§7%SPECIES %TYPE
+for.bees.grammar.larvae.type=§7Larvae
+for.bees.grammar.larvae=§7%SPECIES %TYPE
+for.bees.grammar.princess.type=§7Princess
+for.bees.grammar.princess=§7%SPECIES %TYPE
+for.bees.grammar.queen.type=§7Queen
+for.bees.grammar.queen=§7%SPECIES %TYPE
+
+for.bees.hybrid=§7%PRIMARY-%SECONDARY Hybrid
+
+for.bees.species.austere=§7Austere
+for.bees.species.avenging=§7Avenging
+for.bees.species.boggy=§7Boggy
+for.bees.species.common=§7Common
+for.bees.species.cultivated=§7Cultivated
+for.bees.species.darkened=§7Darkened
+for.bees.species.demonic=§7Demonic
+for.bees.species.diligent=§7Diligent
+for.bees.species.edenic=§7Edenic
+for.bees.species.ended=§7Ender
+for.bees.species.exotic=§7Exotic
+for.bees.species.fiendish=§7Fiendish
+for.bees.species.forest=§7Forest
+for.bees.species.frugal=§7Frugal
+for.bees.species.glacial=§7Glacial
+for.bees.species.hermitic=§7Hermitic
+for.bees.species.heroic=§7Heroic
+for.bees.species.icy=§7Icy
+for.bees.species.imperial=§7Imperial
+for.bees.species.industrious=§7Industrious
+for.bees.species.leporine=§7Leporine
+for.bees.species.majestic=§7Majestic
+for.bees.species.marshy=§7Marshy
+for.bees.species.meadows=§7Meadows
+for.bees.species.merry=§7Merry
+for.bees.species.miry=§7Miry
+for.bees.species.modest=§7Modest
+for.bees.species.monastic=§7Monastic
+for.bees.species.noble=§7Noble
+for.bees.species.omega=§7Omega
+for.bees.species.phantasmal=§7Phantasmal
+for.bees.species.reddened=§7Reddened
+for.bees.species.rural=§7Rural
+for.bees.species.farmerly=§7Farmerly
+for.bees.species.agrarian=§7Agrarian
+for.bees.species.secluded=§7Secluded
+for.bees.species.sinister=§7Sinister
+for.bees.species.spectral=§7Spectral
+for.bees.species.steadfast=§7Steadfast
+for.bees.species.tipsy=§7Tipsy
+for.bees.species.tricky=§7Tricky
+for.bees.species.tropical=§7Tropical
+for.bees.species.unweary=§7Unweary
+for.bees.species.valiant=§7Valiant
+for.bees.species.vengeful=§7Vengeful
+for.bees.species.vindictive=§7Vindictive
+for.bees.species.wintry=§7Wintry
+
+for.bees.stock.ignoble=§7Ignoble Stock
+for.bees.stock.pristine=§7Pristine Stock
+
+for.chat.command.forestry.bee.desc=§7- %s : Beekeeping Commands
+for.chat.command.forestry.bee.help=§7Commands relating to beekeeping.
+for.chat.command.forestry.bee.format=§7Format: /%s <sub-command>
+
+for.chat.command.forestry.bee.give.desc=§7- %s : Give Bees
+for.chat.command.forestry.bee.give.help=§7Give a player drones, princesses, queens, or larvae.
+for.chat.command.forestry.bee.give.format=§7Format: /%s <species-name> <bee-type> [<player-name>]
+for.chat.command.forestry.bee.give.available=§7Available bee types: %s
+for.chat.command.forestry.bee.give.given=§7%1$s was given a %2$s %3$s.
+
+for.chat.command.forestry.bee.mode.desc=§7- %s : Beekeeping Mode Commands
+for.chat.command.forestry.bee.mode.help=§7Commands relating to Beekeeping Modes.
+for.chat.command.forestry.bee.mode.format=§7Format: /%s <sub-command>
+
+for.chat.command.forestry.bee.mode.info.desc=§7- %s : Beekeeping Mode Info
+for.chat.command.forestry.bee.mode.info.help=§7Information about current and available beekeeping modes.
+for.chat.command.forestry.bee.mode.info.format=§7Format: /%s <mode-name>
+
+for.chat.command.forestry.bee.mode.set.desc=§7- %s : Beekeeping Mode Set
+for.chat.command.forestry.bee.mode.set.help=§7Set the beekeeping mode for world.
+for.chat.command.forestry.bee.mode.set.format=§7Format: /%s [<world-#>] <mode-name>
+
+for.chat.command.forestry.bee.save.desc=§7- %s : Save Beekeeping Statistics
+for.chat.command.forestry.bee.save.help=§7Save beekeeping statistics to file.
+for.chat.command.forestry.bee.save.format=§7Format: /%s [<player-name>]
+for.chat.command.forestry.bee.save.stats=§7Beekeeping statistics for %s on %s:
+
+for.chat.command.forestry.mode.info.error=§7No mode called '%s' is available.
+for.chat.command.forestry.mode.info.current=§7Current: %1$s (#%2$s)
+for.chat.command.forestry.mode.info.available=§7Available modes: %s
+
+for.chat.command.forestry.mode.set.success=§7Mode set to %s.
+for.chat.command.forestry.mode.set.error=§7A mode called '%s' is not available.
+
+for.chat.command.forestry.stats.save.error1=§7Log file could not be created. Failed to save statistics.
+for.chat.command.forestry.stats.save.error2=§7Cannot write to log file. Failed to save statistics.
+for.chat.command.forestry.stats.save.error3=§7Write operation threw an exception. Failed to save statistics.
+for.chat.command.forestry.stats.save.error4=§7No statistics found.
+for.chat.command.forestry.stats.save.saved=§7Saved statistics for player %s
+for.chat.command.forestry.stats.save.key.discovered=§7Discovered
+for.chat.command.forestry.stats.save.key.discovered.symbol=§7X
+for.chat.command.forestry.stats.save.key.blacklisted=§7Blacklisted
+for.chat.command.forestry.stats.save.key.blacklisted.symbol=§7BL
+for.chat.command.forestry.stats.save.key.notCounted=§7Not counted for the species total
+for.chat.command.forestry.stats.save.key.notCounted.symbol=§7NC
+for.chat.command.forestry.stats.save.mode=§7Mode: %s
+
+for.description.speciesAgrarian=§7"Doesn't reek as much as the alternative. Gets the job done, eh?"|Myrathi, Cannie Beekeeper
+for.description.speciesAustere=§7Dangerous and volatile; Beekeepers are advised to stay in full suit whenever near.|Beekeeping 101
+for.description.speciesAvenging=§7"The walls of my house began to crumble and I heard the roof creaking over my head, but I cared not! I felt the stabs of a thousand little insects on my glove as I grabbed the new queen."|Anonymous
+for.description.speciesBoggy=§7"I saw a cow get stung by one of these once. Seconds later, it started sprouting mushrooms all over! ... A photo? Uh, didn't take one."|"Sir" Sengir, madman
+for.description.speciesCommon=§7Considered the beginner apiarist's badge of participation.|Beekeeping 101
+for.description.speciesCultivated=§7Fast working bee; Thinks anything but opera is beneath it.|Beekeeping 101
+for.description.speciesDarkened=§7Attracted by the power of alchemically bound matter, this species was a powerful source of energy.|Beekeeper's Lexicon
+for.description.speciesDemonic=§7Born in the fires of the nether and being a descendant of generations of nether bees has caused this species to turn into a true demon.|Beekeeping 101
+for.description.speciesDiligent=§7Mostly noted as a stepping stone for the industrious line of bees.|Beekeeping 101
+for.description.speciesEdenic=§7"I furiously scribbled in my notebook, drawing sketches of the images I felt seeping into my brain while I was watching the insects perform their strange little dance."|Beekeeping 101
+for.description.speciesEnded=§7"I found one of these seemingly hermitical insects in a villager's apiary. It was torpid, obviously ripped from its world and longing for a fragment from it."|Beekeeping 101
+for.description.speciesExotic=§7"The fever shook me and my apiarist's suit was drenched with cold sweat, but with trembling hands I finally managed to pull one of these from my apiary."|Beekeeping 101
+for.description.speciesFarmerly=§7Commonly seen in large expanses of prairie, the breadbasket of nations.|Beekeeping 101
+for.description.speciesFiendish=§7Experienced nether apiarist's have been reporting severe attacks by their bees. Caution is advised.|Beekeeping 101
+for.description.speciesForest=§7One of the most common pests in forests; Mostly docile.|Beekeeping 101
+for.description.speciesFrugal=§7Generations of bees baked in the sun to produce this species.|Beekeeping 101
+for.description.speciesGlacial=§7"Winter is coming!"|E. Stark, beekeeper
+for.description.speciesHermitic=§7"My dear colleague! I noticed the bees you sent me refuse to wash and are growing full beards. Care to explain?"|Binnie, Apiarist
+for.description.speciesHeroic=§7Elaborate legends have surrounded this species. Will defend its hive to its death against any hostiles.|Apiarist's Grimoire
+for.description.speciesIcy=§7Temperatures inside hives inhabited by this species will drop until ice shards form.|Beekeeping 101
+for.description.speciesImperial=§7Highly sought after bee; Specialises in the production of precious royal jelly.|Beekeeping 101
+for.description.speciesIndustrious=§7Highly sought after bee; Specialises in the production of exquisite pollen.|Beekeeping 101
+for.description.speciesLeporine=§7"I swear! It was tiny, had wings and I definitely saw fluffy little rabbit ears! ... No! I am not drunk!"|"Sir" Sengir, madman
+for.description.speciesMajestic=§7"Off with their heads!"|Queen of Hearts
+for.description.speciesMarshy=§7"Seriously? Mushrooms? Get out of here!"|Beekeeping 101
+for.description.speciesMeadows=§7Infests mostly plains in temperate climates; Mostly docile.|Beekeeping 101
+for.description.speciesMerry=§7"Hohoho!"|Merry bee
+for.description.speciesMiry=§7"How do bees even pollinate fungi?"|Mezz, Junior Apiarist
+for.description.speciesModest=§7Hot and arid climates have forced this species to adapt to a degree which will not allow it to survive in significantly friendlier climates.|Beekeeping 101
+for.description.speciesMonastic=§7"I remained austere and said to him: 'Not only a princess, but also a whole pile of emeralds for a measly drone? That's extortion!'|Beekeeping 101
+for.description.speciesNoble=§7"There is no more noble occupation in the world than to breed another bee."|Binnie, Apiarist
+for.description.speciesOmega=§7"I am Alpha and Omega, the beginning and the end, the first and the last."|Pahimar, beekeeper
+for.description.speciesPhantasmal=§7"Whatever you do, do not, I repeat, DO NOT drop the dragon e..."|"Sir" Sengir, Last Words
+for.description.speciesReddened=§7Requiring massive amounts of alchemically bound matter, these little fellows could flood a world in energy.|Beekeeper's Lexicon
+for.description.speciesRural=§7"Rain in May promises much hay."|M. Ages, Rural Beekeeper
+for.description.speciesSecluded=§7"Crossbreeding with the desert kind was a mistake. My bees withdrew more and more from the outside world."|Beekeeping 101
+for.description.speciesSinister=§7Not many bee species are able to survive in the nether. And even those are severly affected by their hellish environment.|Beekeeping 101
+for.description.speciesSpectral=§7"I was unsure whether it was alive as it lay there in the palm of my hand, glimmering and pulsating, oozing a coldness I never felt before. Then I heard the pile of bones behind me rattle..."|Beekeeping 101
+for.description.speciesSteadfast=§7Considered extinct until some were found by adventurers in a deep dungeon.|Apiarist's Grimoire
+for.description.speciesTipsy=§7"Dance my pretties! Dance!"|Tipsy Witch of the East
+for.description.speciesTricky=§7"Trick or Tricky Treat!"|Tricky Bee
+for.description.speciesTropical=§7"My travels along the jungle river allowed me to catch many of these poisonous specimen. Unfortunately I had lost my only austere branch to crocodiles a while back."|Beekeeping 101
+for.description.speciesUnweary=§7Unweary. Then they die.|Beekeeping 101
+for.description.speciesValiant=§7A rare subspecies rarely seen cohabiting in mundane hives.|Apiarist's Grimoire
+for.description.speciesVengeful=§7"Veni, vidi, vici!"|Apinus Julius Caesar
+for.description.speciesVindictive=§7"It ate my face! It ate my face!"|K.M.
+for.description.speciesWintry=§7Common, but winter-hardened bee tribe; Cultivation in warmer climates is a challenge.|Beekeeping 101
+
+for.genus.bees.agrarian=§7Agrarian
+for.genus.bees.austere=§7Austere
+for.genus.bees.boggy=§7Boggy
+for.genus.bees.common=§7Common
+for.genus.bees.end=§7End
+for.genus.bees.festive=§7Festive
+for.genus.bees.frozen=§7Frozen
+for.genus.bees.heroic=§7Heroic
+for.genus.bees.industrious=§7Industrious
+for.genus.bees.infernal=§7Infernal
+for.genus.bees.monastic=§7Monastic
+for.genus.bees.noble=§7Noble
+for.genus.bees.reddened=§7Reddened
+for.genus.bees.tropical=§7Tropical
+for.genus.bees.vengeful=§7Vengeful
+
+item.for.beePrincessGE.name=§7Princess
+item.for.beeQueenGE.name=§7Queen
+item.for.beeDroneGE.name=§7Drone
+
+tile.for.alveary.0.name=§7Alveary
+tile.for.alveary.1.name=§7Alveary Entrance
+tile.for.alveary.2.name=§7Swarmer
+tile.for.alveary.3.name=§7Alveary Fan
+tile.for.alveary.4.name=§7Alveary Heater
+tile.for.alveary.5.name=§7Alveary Hygroregulator
+tile.for.alveary.6.name=§7Alveary Stabiliser
+tile.for.alveary.7.name=§7Alveary Sieve
+
+tile.for.apiculture.0.name=§7Apiary
+tile.for.apicultureChest.0.name=§7Apiarist's Chest
+tile.for.apiculture.2.name=§7Bee House
+
+tile.for.beehives.1.name=§7Forest Hive
+tile.for.beehives.2.name=§7Meadows Hive
+tile.for.beehives.3.name=§7Modest Hive
+tile.for.beehives.4.name=§7Tropical Hive
+tile.for.beehives.5.name=§7Ender Hive
+tile.for.beehives.6.name=§7Wintry Hive
+tile.for.beehives.7.name=§7Marshy Hive
+tile.for.beehives.8.name=§7Swarm Hive
+
+tile.for.candle.dyed.lit.name=§7Lit Dyed Candle
+tile.for.candle.dyed.stump.name=§7Unlit Dyed Candle
+tile.for.candle.lit.name=§7Lit Candle
+tile.for.candle.stump.name=§7Unlit Candle
+
+tile.for.stump.0.name=§7Candle Stump
+
+####################
+# MULTIBLOCK
+####################
+
+for.multiblock.error.notConnected=§7The MultiBlock is not connected to a controller. This could be due to lag, or a bug. If the problem persists, try breaking and re-placing the block.
+for.multiblock.error.invalid.interior=§7%d, %d, %d - (%s) Block is not valid for use in the machine's interior.
+for.multiblock.error.invalid.part=§7The multiblock part @ %d, %d, %d is incompatible with machines of type %s.
+for.multiblock.error.small=§7The multiblock is too small. It must be at least %d X, %d Y, %d Z.
+for.multiblock.error.large.x=§7The multiblock is too large, it may be at most %d blocks in the X dimension.
+for.multiblock.error.large.y=§7The multiblock is too large, it may be at most %d blocks in the Y dimension.
+for.multiblock.error.large.z=§7The multiblock is too large, it may be at most %d blocks in the Z dimension.
+for.multiblock.error.small.x=§7The multiblock is too small, it must be at least %d blocks in the X dimension.
+for.multiblock.error.small.y=§7The multiblock is too small, it must be at least %d blocks in the Y dimension.
+for.multiblock.error.small.z=§7The multiblock is too small, it must be at least %d blocks in the Z dimension.
+
+for.multiblock.alveary.error.needSlabs=§7The Alveary must have wooden slabs on top.
+for.multiblock.alveary.error.needSpace=§7The alveary needs space around the top for the bees to enter and exit.
+for.multiblock.alveary.error.needPlainOnTop=§7The Alveary must have plain alveary blocks for the top level.
+for.multiblock.alveary.error.needPlainInterior=§7The Alveary must have plain alveary blocks for the interior.
+
+for.multiblock.farm.error.needPlainBand=§7The Farm must have plain farm blocks for the third level.
+for.multiblock.farm.error.needPlainInterior=§7The Farm must have plain farm blocks for the interior.
+for.multiblock.farm.error.needGearbox=§7The farm must have a gearbox to accept power and do work.
+
+####################
+# ARBORICULTURE
+####################
+
+entity.Villager.arborist=§7Arborist
+
+for.arboriculture.effect.none=§7None
+
+for.chat.command.forestry.tree.desc=§7- %s : Treekeeping Commands
+for.chat.command.forestry.tree.help=§7Commands relating to trees.
+for.chat.command.forestry.tree.format=§7Format:/%s <sub-command>
+
+for.chat.command.forestry.tree.spawnTree.desc=§7- %s : Spawn Tree
+for.chat.command.forestry.tree.spawnTree.help=§7Spawn a tree near the player.
+for.chat.command.forestry.tree.spawnTree.format=§7Format:/%s <species-name> [<player-name>]
+
+for.chat.command.forestry.tree.spawnForest.desc=§7- %s : Spawn Forest
+for.chat.command.forestry.tree.spawnForest.help=§7Spawn a small forest of trees near the player.
+for.chat.command.forestry.tree.spawnForest.format=§7Format:/%s <species-name> [<player-name>]
+
+for.chat.command.forestry.tree.mode.desc=§7- %s : Treekeeping Mode Commands
+for.chat.command.forestry.tree.mode.help=§7Commands relating to Treekeeping Modes.
+for.chat.command.forestry.tree.mode.format=§7Format: /%s <sub-command>
+
+for.chat.command.forestry.tree.mode.info.desc=§7- %s : Treekeeping Mode Info
+for.chat.command.forestry.tree.mode.info.help=§7Information about current and available treekeeping modes.
+for.chat.command.forestry.tree.mode.info.format=§7Format: /%s <mode-name>
+
+for.chat.command.forestry.tree.mode.set.desc=§7- %s : Treekeeping Mode Set
+for.chat.command.forestry.tree.mode.set.help=§7Set the treekeeping mode for world.
+for.chat.command.forestry.tree.mode.set.format=§7Format: /%s [<world-#>] <mode-name>
+
+for.chat.command.forestry.tree.save.desc=§7- %s : Save Treekeeping Statistics
+for.chat.command.forestry.tree.save.help=§7Save treekeeping statistics to file.
+for.chat.command.forestry.tree.save.format=§7Format: /%s [<player-name>]
+
+for.chat.command.forestry.tree.save.stats=§7Treekeeping statistics for %s on %s:
+
+for.description.treeBirch=§7Widespread birch tree, which on average is of smaller height.|Codex Lignum
+for.description.treeCherry=§7Small tree. In its natural form it will bear cherries which will need to undergo a ripening period.|Codex Lignum
+for.description.treeChestnut=§7Tall, deciduous tree with large trunk. Naturally occuring chestnut trees carry fruits which require some time to ripe.|Codex Lignum
+for.description.treeLime=§7Tall, deciduous tree. It has been reclassified recently as being in the Malvaceae family.|Codex Lignum
+for.description.treeOak=§7Common tree species whose apple-bearing properties are the subject of much song and dance.|Codex Lignum
+for.description.treeSipiri=§7Tall, evergreen trees with valuable timber. Wood and bark are pleasantly scented. Will only thrive in tropical climes.|Codex Lignum
+for.description.treeWalnut=§7Tall, deciduous tree with large trunk. Naturally occuring walnut trees carry fruits which require some time to ripe.|Codex Lignum
+for.description.treeWillow=§7Large, deciduous tree. White willows are fast-growing. Have only been observed to occur in damp climates.|Codex Lignum
+
+for.family.jungle=§7Jungle
+for.family.nuts=§7Nuts
+for.family.pomes=§7Pomes
+for.family.prunes=§7Prunes
+
+for.fruits.apple=§7Apple
+for.fruits.cherry=§7Cherry
+for.fruits.chestnut=§7Chestnut
+for.fruits.cocoa=§7Cocoa
+for.fruits.dates=§7Dates
+for.fruits.lemon=§7Lemon
+for.fruits.none=§7None
+for.fruits.papaya=§7Papaya
+for.fruits.plum=§7Plum
+for.fruits.walnut=§7Walnut
+
+for.gui.family=§7Family
+for.gui.fireproof=§7Fireproof
+for.gui.fruits=§7Fruits
+for.gui.girth=§7Girth
+for.gui.growth=§7Growth
+for.gui.height=§7Height
+for.gui.maturity=§7Matures
+for.gui.native=§7Soil
+for.gui.saplings=§7Saplings
+for.gui.sappiness=§7Sappiness
+for.gui.supports=§7Supports
+for.gui.tolerated=§7Tolerates
+for.gui.treealyzer.help=§7Supply sapling and provide honey or honeydew as catalyst.
+for.gui.treealyzer=§7Treealyzer
+for.gui.yield=§7Yield
+
+for.growth.normal=§7Light
+for.growth.tropical=§7Tropical
+
+for.trees.grammar.blossom.type=§7Blossom
+for.trees.grammar.blossom=§7%SPECIES %TYPE
+for.trees.grammar.germling.type=§7Germling
+for.trees.grammar.germling=§7%SPECIES %TYPE
+for.trees.grammar.pollen.type=§7Pollen
+for.trees.grammar.pollen=§7%SPECIES %TYPE
+for.trees.grammar.sapling.type=§7Sapling
+for.trees.grammar.sapling=§7%SPECIES %TYPE
+for.trees.grammar.leaves.type=§7Leaves
+for.trees.grammar.leaves=§7%SPECIES %TYPE
+
+for.trees.hybrid=§7%PRIMARY-%SECONDARY Hybrid
+
+for.trees.species.acacia=§7Acacia
+for.trees.species.appleOak=§7Apple Oak
+for.trees.species.balsa=§7Balsa
+for.trees.species.blueMahoe=§7Blue Mahoe
+for.trees.species.bullPine=§7Bull Pine
+for.trees.species.coastSequoia=§7Coast Sequoia
+for.trees.species.commonWalnut=§7Common Walnut
+for.trees.species.darkOak=§7Dark Oak
+for.trees.species.datePalm=§7Date Palm
+for.trees.species.desertAcacia=§7Desert Acacia
+for.trees.species.giantSequoia=§7Giant Sequoia
+for.trees.species.grandidierBaobab=§7Grandidier's Baobab
+for.trees.species.hillCherry=§7Hill Cherry
+for.trees.species.jungle=§7Jungle
+for.trees.species.kapok=§7Kapok
+for.trees.species.lemon=§7Lemon
+for.trees.species.mundaneLarch=§7Mundane Larch
+for.trees.species.myrtleEbony=§7Myrtle Ebony
+for.trees.species.papaya=§7Papaya
+for.trees.species.plum=§7Plum
+for.trees.species.redSpruce=§7Red Spruce
+for.trees.species.silverBirch=§7Silver Birch
+for.trees.species.silverLime=§7Silver Lime
+for.trees.species.sipiri=§7Sipiri
+for.trees.species.sugarMaple=§7Sugar Maple
+for.trees.species.sweetChestnut=§7Sweet Chestnut
+for.trees.species.teak=§7Teak
+for.trees.species.wenge=§7Wenge
+for.trees.species.whitePoplar=§7White Poplar
+for.trees.species.whiteWillow=§7White Willow
+for.trees.species.yellowMeranti=§7Yellow Meranti
+for.trees.species.ipe=§7Ipe
+for.trees.species.padauk=§7Padauk
+for.trees.species.cocobolo=§7Cocobolo
+for.trees.species.zebrawood=§7Zebrawood
+
+for.fences.grammar=§7%TYPE Fence
+for.log.grammar=§7%TYPE Wood
+for.planks.grammar=§7%TYPE Wood Planks
+for.slab.grammar=§7%TYPE Wood Slab
+for.stairs.grammar=§7%TYPE Stairs
+
+for.trees.woodType.larch=§7Larch
+for.trees.woodType.teak=§7Teak
+for.trees.woodType.acacia=§7Desert Acacia
+for.trees.woodType.lime=§7Lime
+for.trees.woodType.chestnut=§7Chestnut
+for.trees.woodType.wenge=§7Wenge
+for.trees.woodType.baobab=§7Baobab
+for.trees.woodType.sequoia=§7Sequoia
+for.trees.woodType.kapok=§7Kapok
+for.trees.woodType.ebony=§7Ebony
+for.trees.woodType.mahogany=§7Mahogany
+for.trees.woodType.balsa=§7Balsa
+for.trees.woodType.willow=§7Willow
+for.trees.woodType.walnut=§7Walnut
+for.trees.woodType.greenheart=§7Greenheart
+for.trees.woodType.cherry=§7Cherry
+for.trees.woodType.mahoe=§7Mahoe
+for.trees.woodType.poplar=§7Poplar
+for.trees.woodType.palm=§7Palm
+for.trees.woodType.papaya=§7Papaya
+for.trees.woodType.pine=§7Pine
+for.trees.woodType.plum=§7Plum
+for.trees.woodType.maple=§7Maple
+for.trees.woodType.citrus=§7Citrus
+for.trees.woodType.giganteum=§7Giant Sequoia
+for.trees.woodType.ipe=§7Ipe
+for.trees.woodType.padauk=§7Padauk
+for.trees.woodType.cocobolo=§7Cocobolo
+for.trees.woodType.zebrawood=§7Zebrawood
+
+tile.for.fireproof=§7%s (Fireproof)
+
+item.for.grafter.name=§7Grafter
+item.for.grafterProven.name=§7Proven Grafter
+
+tile.for.arboriculture.0.name=§7Arborist's Chest
+
+tile.for.saplingGE.0.name=§7Sapling
+tile.for.leaves.0.name=§7Leaves
+tile.for.pods.0.name=§7Pod
+
+####################
+# FARMING
+####################
+
+for.circuit.managedArboreal=§7Arboretum
+for.circuit.managedCereal=§7Crop Farm
+for.circuit.managedInfernal=§7Infernal Farm
+for.circuit.managedPeat=§7Peat Bog
+for.circuit.managedShroom=§7Shroom Farm
+for.circuit.managedVegetable=§7Vegetable Farm
+for.circuit.managedEnder=§7Ender Farm
+for.circuit.manualCereal=§7Vanilla Crop Farm
+for.circuit.manualCocoa=§7Cocoa Plantation
+for.circuit.manualGourd=§7Gourd Farm
+for.circuit.manualOrchard=§7Orchard
+for.circuit.manualPeat=§7Peat Bog
+for.circuit.manualPoales=§7Reed Farm
+for.circuit.manualRubber=§7Rubber Plantation
+for.circuit.manualShroom=§7Shroom Farm
+for.circuit.manualSucculent=§7Succulent Farm
+for.circuit.manualVegetable=§7Vegetable Farm
+for.circuit.manualIC2Crop=§7IC2 Crop Farm
+
+for.gui.farm.title=§7Farm
+for.gui.hydr.heat=§7By Heat
+for.gui.hydr.humid=§7By Humidity
+for.gui.hydr.overall=§7Overall
+for.gui.hydr.rainfall=§7By Rainfall
+for.gui.hydration=§7Hydration Required
+
+for.hints.circuitboard.desc=§7Use a soldering iron to turn your tree farm into any kind of farm you like.
+for.hints.circuitboard.tag=§7Program your farms!
+for.hints.farmgui.desc=§7Soil goes into the left slots, seeds or saplings into the right slots of the reservoir on the top right part.
+for.hints.farmgui.tag=§7Soil goes left, seeds go right!
+for.hints.farmland.desc=§7Smooth sandstone, bricks or stone bricks create a platform the farm will build on.
+for.hints.farmland.tag=§7Lay out your farmland!
+for.hints.fertilizer.desc=§7All farms need fertilizer to work. Compost or mulch will not suffice.
+for.hints.fertilizer.tag=§7Fertilizer needed!
+for.hints.gearbox.desc=§7Use gearboxes to attach engines or power lines to your farm.
+for.hints.gearbox.tag=§7Supply power!
+for.hints.hatch.desc=§7Hatches are a pipe or tube's best friend. Use them to automate transport.
+for.hints.hatch.tag=§7Batten down the hatches!
+for.hints.manualfarms.desc=§7Apart from the managed farms there are manual farms which will only maintain the farm, but not build it.
+for.hints.manualfarms.tag=§7Manual farms!
+for.hints.valve.desc=§7Almost all farms require water. Use valve blocks for automation.
+for.hints.valve.tag=§7Supply water!
+
+for.trigger.lowFertilizer=§7Fertilizer
+for.trigger.lowLiquid=§7Water Tank
+for.trigger.lowSoil=§7Soil
+
+tile.for.ffarm.0.name=§7Farm Block
+tile.for.ffarm.2.name=§7Farm Gearbox
+tile.for.ffarm.3.name=§7Farm Hatch
+tile.for.ffarm.4.name=§7Farm Valve
+tile.for.ffarm.5.name=§7Farm Control
+
+tile.for.mushroom.0.name=§7Mushroom
+tile.for.mushroom.1.name=§7Mushroom
+
+####################
+# LEPIDOPTEROLOGY
+####################
+
+for.chat.command.forestry.butterfly.desc=§7- %s : Butterfly Commands
+for.chat.command.forestry.butterfly.help=§7Various commands related to butterflies
+for.chat.command.forestry.butterfly.format=§7Format: /%s <sub-command>
+
+for.chat.command.forestry.butterfly.kill.desc=§7- %s : Kills all Butterflies
+for.chat.command.forestry.butterfly.kill.help=§7Kills all Butterflies in loaded chunks
+for.chat.command.forestry.butterfly.kill.format=§7Format: /%s [<dimension#>]
+
+for.butterflies.hybrid=§7Hybrid: %PRIMARY-%SECONDARY
+
+for.butterflies.species.geometridae.brimstone=§7Brimstone Moth
+for.butterflies.species.geometridae.latticeHeath=§7Latticed Heath
+for.butterflies.species.nymphalidae.blueDuke=§7Blue Duke
+for.butterflies.species.nymphalidae.blueMorphoM=§7Menelaus Blue Morpho
+for.butterflies.species.nymphalidae.blueMorphoP=§7Peleides Blue Morpho
+for.butterflies.species.nymphalidae.blueMorphoR=§7Rhetenor Blue Morpho
+for.butterflies.species.nymphalidae.blueWing=§7Blue Wing
+for.butterflies.species.nymphalidae.comma=§7Comma
+for.butterflies.species.nymphalidae.dianaFritillary=§7Diana Fritillary
+for.butterflies.species.nymphalidae.glasswing=§7Glasswing
+for.butterflies.species.nymphalidae.glassyTiger=§7Glassy Tiger
+for.butterflies.species.nymphalidae.leopardLacewing=§7Leopard Lacewing
+for.butterflies.species.nymphalidae.malachite=§7Malachite
+for.butterflies.species.nymphalidae.monarch=§7Monarch
+for.butterflies.species.nymphalidae.paintedBeauty=§7Painted Beauty
+for.butterflies.species.nymphalidae.postman=§7Postman
+for.butterflies.species.nymphalidae.speckledWood=§7Speckled Wood
+for.butterflies.species.nymphalidae.speckledWoodC=§7Canary Speckled Wood
+for.butterflies.species.nymphalidae.speckledWoodM=§7Madeiran Speckled Wood
+for.butterflies.species.papilionidae.emeraldPeacock=§7Emerald Peacock
+for.butterflies.species.papilionidae.swallowtailB=§7Black Swallowtail
+for.butterflies.species.papilionidae.swallowtailC=§7Citrus Swallowtail
+for.butterflies.species.papilionidae.swallowtailS=§7Spicebush Swallowtail
+for.butterflies.species.papilionidae.swallowtailT=§7Thoas Swallowtail
+for.butterflies.species.papilionidae.swallowtailZ=§7Zebra Swallowtail
+for.butterflies.species.pieridae.brimstone=§7Brimstone
+for.butterflies.species.pieridae.cabbageWhite=§7Cabbage White
+for.butterflies.species.pieridae.gozoraAzure=§7Gozora Azure
+for.butterflies.species.pieridae.orangeTip=§7Orange Tip
+for.butterflies.species.pieridae.palaenoSulphur=§7Palaeno Sulphur
+for.butterflies.species.pieridae.postillion=§7Common Clouded Yellow
+for.butterflies.species.pieridae.reseda=§7Eastern Bath White
+for.butterflies.species.pieridae.springAzure=§7Holly Blue
+for.butterflies.species.saturniidae.atlas=§7Atlas Moth
+
+for.gui.flutterlyzer=§7Flutterlyzer
+for.gui.flutterlyzer.help=§7Supply butterfly and provide honey or honeydew as a pacifier.
+for.gui.loot.butterfly=§7Possible Butterfly Loot
+for.gui.loot.caterpillar=§7Possible Caterpillar Loot
+
+for.lepidopterology.effect.none=§7None
+
+item.for.butterfly.name=§7Butterfly
+item.for.flutterlyzer.name=§7Flutterlyzer
+item.for.lepidopteristBag.name=§7Lepidopterist's Backpack
+item.for.moth.name=§7Moth
+tile.for.lepidopterology.0.name=§7Lepidopterist's Chest
+
+####################
+# MAIL
+####################
+
+for.chat.mail.already_mailed=§7Cannot resend letter.
+
+for.chat.command.forestry.mail.desc=§7- %s : Mail System Commands
+for.chat.command.forestry.mail.help=§7Various commands related to the mail system
+for.chat.command.forestry.mail.format=§7Format: /%s <sub-command>
+
+for.chat.command.forestry.mail.trades.desc=§7- %s : A list of all trade stations.
+for.chat.command.forestry.mail.trades.help=§7Lists all trade stations and their available trades.
+for.chat.command.forestry.mail.trades.format=§7Format: /%s
+
+for.chat.command.forestry.mail.virtualize.desc=§7- %s : Toggle virtual mode on a specified trade station.
+for.chat.command.forestry.mail.virtualize.help=§7Toggles virtual mode on a specified trade station. This mode does not consume items.
+for.chat.command.forestry.mail.virtualize.format=§7Format: /%s <trade-station-name>
+for.chat.command.forestry.mail.virtualize.no_tradestation=§7No trade station by the name of '%s' was found.
+for.chat.command.forestry.mail.virtualize.set=§7Set virtualization for '%s' to %s.
+
+for.chat.mail.insufficient_buffer=§7Trade station is full.
+for.chat.mail.insufficient_offer=§7Trade station demands more.
+for.chat.mail.insufficient_paper=§7Trade station ran out of paper.
+for.chat.mail.insufficient_stamps=§7Trade station ran out of stamps.
+for.chat.mail.insufficient_trade_good=§7Trade station has run out of supplies.
+for.chat.mail.mailbox_full=§7Recipient's mailbox is full.
+for.chat.mail.not_mailable=§7Letter is not sendable.
+for.chat.mail.not_postpaid=§7Letter is not sufficiently stamped.
+for.chat.mail.no_mailbox=§7Recipient has no mailbox.
+for.chat.mail.ok=§7Trade is available.
+for.chat.mail.response_not_mailable=§7Trade station cannot send the response letter. You need to have a mailbox to deliver to.
+for.chat.mail.wrongstacksize=§7Can only write one letter at a time.
+
+for.gui.mail.address.copy=§7Use
+for.gui.mail.catalogue.close=§7Close
+for.gui.mail.catalogue.trade=§7Trade
+for.gui.mail.filter.all=§7All
+for.gui.mail.filter.offline=§7Offline
+for.gui.mail.filter.online=§7Online
+for.gui.mail.notrades=§7No trades available.
+for.gui.mail.tradefor=§7for
+for.gui.mail.willtrade=§7%s will trade
+
+item.for.catalogue.name=§7Catalogue
+
+####################
+# PIPES
+####################
+
+item.PipeItemsPropolis.name=§7Apiarist's Pipe
+
+####################
+# PLUGINS
+####################
+for.plugin.core.description=§7Core mechanics for Forestry. Required by all other plugins.
+for.plugin.fluids.description=§7Adds fluids, fluid blocks, and fluid containers.
+for.plugin.apiculture.description=§7Adds bees, beekeeping and bee products. Affects world generation.
+for.plugin.arboriculture.description=§7Adds additional tree species and products.
+for.plugin.energy.description=§7Adds several RF engines.
+for.plugin.factory.description=§7Adds a wide variety of machines to craft, produce and process products.
+for.plugin.farming.description=§7Adds automatic farms and harvesters for a wide variety of products.
+for.plugin.food.description=§7Adds food.
+for.plugin.lepidopterology.description=§7Butterflies. Shiny.
+for.plugin.mail.description=§7Adds Forestry's mail and trade system.
+for.plugin.storage.description=§7Adds backpacks and crates.
+
+for.plugin.buildcraft6.description=§7Compatibility plugin for BuildCraft 6.
+for.plugin.pipes.description=§7Adds the apiarist's pipe for beekeeping if apiculture is enabled and BuildCraft 6 is present.
+for.plugin.ic2.description=§7Compatibility plugin for IC2. Adds electrical engine and generator for power conversion.
+for.plugin.natura.description=§7Compatibility plugin for Natura. Enables farming Natura saplings.
+for.plugin.ee2.description=§7Compatibility plugin for Equivalent Exchange 2. Enables the Omega branch of bees. Requires Apiculture to be enabled.
+for.plugin.ee3.description=§7Compatibility plugin for Equivalent Exchange 3.
+for.plugin.farmcraftory.description=§7Enables compatibility with FarmCraftory. Adds crops and vegetables to farms.
+for.plugin.biomesoplenty.description=§7Compatibility plugin for Biomes O Plenty. Enables farming BoP saplings.
+for.plugin.extrautilities.description=§7Compatibility plugin for Extra Utilities. Enables farming ender lilies.
+for.plugin.harvestcraft.description=§7Compatibility plugin for HarvestCraft. Enables farming HarvestCraft plants and trees.
+for.plugin.magicalcrops.description=§7Compatibility plugin for Magical Crops.
+for.plugin.chisel.description=§7Compatibility plugin for Chisel. Adds worldgen blocks to Backpacks.
+for.plugin.plantmegapack.description=§7Compatibility plugin for Plant Mega Pack.
+for.plugin.witchery.description=§7Compatibility plugin for Witchery.
+for.plugin.agricraft.description=§7Compatibility plugin for AgriCraft.
+for.plugin.enderIO.description=§7Compatibility plugin for EnderIO.
+for.plugin.immersiveengineering.description=§7Compatibility plugin for Immersive Engineering.
+for.plugin.growthcraft.description=§7Compatibility plugin for GrowthCraft
+for.plugin.erebus.description=§7Compatibility plugin for Erebus
+for.plugin.rotarycraft.description=§7Compatibility plugin for RotaryCraft
+for.plugin.minefactoryreloaded.description=§7Compatibility plugin for MineFactoryReloaded
+
+####################
+# CONFIG FILES
+####################
+
+for.config.performance=§7Performance
+for.config.performance.particleFX=§7Particle Effects
+for.config.performance.particleFX.comment=§7Enables particle effects. Note that Forestry respects Minecraft's reduced particle video settings.
+for.config.performance.backpacks.resupply=§7Backpack Resupply
+for.config.performance.backpacks.resupply.comment=§7Enable backpack resupply. You may want to set this to false on busy servers.
+
+for.config.world.generate=§7World Generation
+
+for.config.world.generate.retrogen.normal=§7Retrogen
+for.config.world.generate.retrogen.normal.comment=§7Creates Forestry world generation in chunks that were created before the mod was added.
+for.config.world.generate.retrogen.forced=§7Forced Retrogen
+for.config.world.generate.retrogen.forced.comment=§7Creates Forestry world generation in all chunks, even if they were generated there before.
+
+for.config.world.generate.ore.apatite=§7Generate Apatite
+for.config.world.generate.ore.apatite.comment=§7Generates apatite ore blocks in the world.
+for.config.world.generate.ore.copper=§7Generate Copper
+for.config.world.generate.ore.copper.comment=§7Generates copper ore blocks in the world.
+for.config.world.generate.ore.tin=§7Generate Tin
+for.config.world.generate.ore.tin.comment=§7Generates tin ore blocks in the world.
+
+for.config.world.generate.beehives.amount=§7Beehives Generation Amount
+for.config.world.generate.beehives.amount.comment=§7Sets how many beehives spawn in the world.
+for.config.world.generate.beehives.debug=§7Debug Beehive Generation
+for.config.world.generate.beehives.debug.comment=§7Force Forestry to generate a beehive at every possible location. (This will break your world. Only useful to developers)
+
+for.config.world.generate.villagers=§7Generate Villagers
+for.config.world.generate.villagers.comment=§7Generates forestry villagers and their houses.
+
+for.config.crafting=§7Crafting
+for.config.crafting.bronze=§7Craft Bronze
+for.config.crafting.bronze.comment=§7Enables the crafting recipe for bronze.
+for.config.crafting.stamps.enabled=§7Craft Stamps
+for.config.crafting.stamps.enabled.comment=§7Enables the crafting recipe for stamps. Disable to use stamps as a currency.
+for.config.crafting.stamps.disabled=§7Disabled Stamps
+for.config.crafting.stamps.disabled.comment=§7Disables the crafting recipe for certain stamps.
+
+for.config.tweaks=§7Tweaks
+
+for.config.tweaks.gui.mail.alert.enabled=§7Mail Alert
+for.config.tweaks.gui.mail.alert.enabled.comment=§7Enables the new mail alert box.
+for.config.tweaks.gui.mail.alert.xPosition=§7Horizontal Position
+for.config.tweaks.gui.mail.alert.xPosition.comment=§7Horizontal Position of the mail alert box on the screen.
+for.config.tweaks.gui.mail.alert.yPosition=§7Vertical Position
+for.config.tweaks.gui.mail.alert.yPosition.comment=§7Vertical Position of the mail alert box on the screen.
+
+for.config.tweaks.gui.tabs.hints=§7Hints
+for.config.tweaks.gui.tabs.hints.comment=§7Enables the hints tab on machine and engine guis.
+for.config.tweaks.gui.tabs.speed=§7Tab Speed
+for.config.tweaks.gui.tabs.speed.comment=§7Set the speed at which the gui side tabs open and close.
+for.config.tweaks.gui.tabs.energy=§7Energy Tab
+for.config.tweaks.gui.tabs.energy.comment=§7Display the energy statistics tab on energy consumers.
+
+for.config.tweaks.gui.tooltip.liquidamount=§7Liquid Tooltip
+for.config.tweaks.gui.tooltip.liquidamount.comment=§7Display liquid amounts in tank tooltips.
+
+for.config.tweaks.permissions=§7Permissions
+for.config.tweaks.permissions.comment=§7Enables access restrictions on forestry machines.
+for.config.tweaks.version.check=§7Version Check
+for.config.tweaks.version.check.comment=§7Enables update and version check notice.
+
+for.config.tweaks.farms.size=§7Farm Size
+for.config.tweaks.farms.size.comment=§7Sets the size multiplier of the farmland.
+for.config.tweaks.farms.square=§7Square Farms
+for.config.tweaks.farms.square.comment=§7Makes farms use a square layout instead of a diamond one.
+for.config.tweaks.farms.enderlily=§7EnderLily Farm Support
+for.config.tweaks.farms.enderlily.comment=§7Enables farm support for ExtraUtilities Ender-lily seeds.
+for.config.tweaks.farms.magicalcrops=§7Magical Crops Farm Support
+for.config.tweaks.farms.magicalcrops.comment=§7Enables farm support for Magical Crops.
+
+for.config.genetics=§7Genetics
+for.config.genetics.clear.invalid.chromosomes=§7Clear Invalid Chromosomes
+for.config.genetics.clear.invalid.chromosomes.comment=§7Clears chromosomes which contain invalid alleles. Might rescue your save if it is crashing after the removal of a bee addon.
+for.config.genetics.pollinate.vanilla.trees=§7Pollinate Vanilla Trees
+for.config.genetics.pollinate.vanilla.trees.comment=§7Allow bees, butterflies, and players to pollinate vanilla tree leaves. When disabled, vanilla trees must be analyzed before they can be pollinated.
+for.config.genetics.research.boost.multiplier=§7Research Mutation Multiplier
+for.config.genetics.research.boost.multiplier.comment=§7Multiplies the chance of a mutation when it has been discovered in the Escritoire.
+for.config.genetics.research.boost.max.percent=§7Research Mutation Max
+for.config.genetics.research.boost.max.percent.comment=§7The maximum percentage boost that can be applied by researching a mutation in the Escritoire.
+
+for.config.difficulty=§7Difficulty
+for.config.difficulty.game.mode=§7Game Mode
+for.config.difficulty.game.mode.comment=§7Set to your preferred game mode. Mismatch with the server may cause visual glitches with recipes.
+for.config.difficulty.recreate.definitions=§7Recreate Definitions
+for.config.difficulty.recreate.definitions.comment=§7Forces recreation of the game mode definitions in config/forestry/gamemodes.
+for.config.difficulty.loot.rare=§7Rare Loot
+for.config.difficulty.loot.rare.comment=§7Makes dungeon loot generated by forestry rarer.
+
+for.config.structures=§7Structures
+for.config.structures.disabled=§7Disabled Structures
+for.config.structures.disabled.comment=§7List specific structures to disable them.
+
+for.config.fluids=§7Fluids
+for.config.fluids.enable.format=§7Enables %s fluid.
+for.config.fluid.blocks=§7Fluid Blocks
+for.config.fluid.blocks.enable.format=§7Enables %s in-world fluid block.
+
+for.config.debug.enabled=§7Debug Mode
+for.config.debug.enabled.comment=§7Enable Debug mode (only useful to developers).
+
+for.config.beekeeping.mode=§7Beekeeping Mode
+for.config.beekeeping.mode.comment=§7Change the beekeeping mode.
+for.config.beekeeping.second.princess=§7Second Princess Chance
+for.config.beekeeping.second.princess.comment=§7Percent chance of a second princess drop, for limited/skyblock maps.
+for.config.beekeeping.flowers.accepted=§7Accepted Flowers
+for.config.beekeeping.flowers.accepted.comment=§7Accepted flowers allow bees to work. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+for.config.beekeeping.flowers.plantable=§7Plantable Flowers
+for.config.beekeeping.flowers.plantable.comment=§7Plantable flowers are placed by bees. All plantable flowers are automatically accepted flowers. Format is 'modid:name:meta', one per line. The format for wildcard  metadata is 'modid:name'.
+
+for.config.species.blacklist=§7Species Blacklist
+for.config.species.blacklist.comment=§7Add species to blacklist identified by their uid, one per line.
+
+for.config.butterfly.entities.spawn.limit=§7Butterfly Spawn Limit
+for.config.butterfly.entities.spawn.limit.comment=§7Butterflies will stop natural spawning once this limit is reached.
+for.config.butterfly.entities.maximum=§7Butterfly Maximum
+for.config.butterfly.entities.maximum.comment=§7New butterflies will stay in item form and will not take flight once this limit is reached.
+for.config.butterfly.entities.pollination=§7Butterfly Pollination
+for.config.butterfly.entities.pollination.comment=§7Allow butterflies to pollinate leaves.
+
+for.config.backpacks.item.stacks.format=§7Add itemStacks for the %s's backpack here in the format 'modid:name:meta'. For wildcard metadata the format is 'modid:name'.
+for.config.backpacks.ore.dict.format=§7Add ore dictionary names for the %s's backpack here in the format 'oreDictName'.
+
+for.config.gamemode=§7Game Mode
+
+for.config.gamemode.energy.demand.modifier.comment=§7Modifies the energy required to activate machines, as well as the max amount of energy stored and accepted.
+for.config.gamemode.farms.fertilizer.value.comment=§7Modifies the time a piece of fertilizer lasts in a farm.
+
+for.config.gamemode.fuel.ethanol.generator.comment=§7modifies the energy provided by ethanol in a Bio Generator.
+for.config.gamemode.fuel.ethanol.combustion.comment=§7modifies the energy provided by ethanol in Buildcraft Combustion Engines.
+for.config.gamemode.fuel.biomass.generator.comment=§7modifies the energy provided by Biomass in a Bio Generator.
+for.config.gamemode.fuel.biomass.biogas.comment=§7modifies the energy provided by Biomass in Biogas Engines.
+
+for.config.gamemode.recipe.output.fertilizer.apatite.comment=§7amount of fertilizer yielded by the recipe using apatite.
+for.config.gamemode.recipe.output.fertilizer.ash.comment=§7amount of fertilizer yielded by the recipe using ash.
+for.config.gamemode.recipe.output.compost.wheat.comment=§7amount of compost yielded by the recipe using wheat.
+for.config.gamemode.recipe.output.compost.ash.comment=§7amount of compost yielded by the recipe using ash.
+for.config.gamemode.recipe.output.humus.fertilizer.comment=§7amount of humus yielded by the recipe using fertilizer.
+for.config.gamemode.recipe.output.humus.compost.comment=§7amount of humus yielded by the recipe using compost.
+for.config.gamemode.recipe.output.bogearth.bucket.comment=§7amount of bog earth yielded by the recipe using buckets.
+for.config.gamemode.recipe.output.bogearth.can.comment=§7amount of bog earth yielded by the recipes using cans, cells or capsules.
+for.config.gamemode.recipe.output.can.comment=§7amount yielded by the recipe for tin cans.
+for.config.gamemode.recipe.output.capsule.comment=§7amount yielded by the recipe for wax capsules.
+for.config.gamemode.recipe.output.refractory.comment=§7amount yielded by the recipe for refractory capsules.
+
+for.config.gamemode.fermenter.cycles.fertilizer.comment=§7modifies the amount of cycles fertilizer can keep a fermenter going.
+for.config.gamemode.fermenter.cycles.compost.comment=§7modifies the amount of cycles compost can keep a fermenter going.
+for.config.gamemode.fermenter.value.fertilizer.comment=§7modifies the amount of biomass per cycle a fermenter will produce using fertilizer.
+for.config.gamemode.fermenter.value.compost.comment=§7modifies the amount of biomass per cycle a fermenter will produce using compost.
+for.config.gamemode.fermenter.yield.sapling.comment=§7modifies the base amount of biomass a sapling will yield in a fermenter, affected by sappiness trait.
+for.config.gamemode.fermenter.yield.cactus.comment=§7modifies the amount of biomass a piece of cactus will yield in a fermenter.
+for.config.gamemode.fermenter.yield.wheat.comment=§7modifies the amount of biomass a piece of wheat will yield in a fermenter.
+for.config.gamemode.fermenter.yield.cane.comment=§7modifies the amount of biomass a piece of sugar cane will yield in a fermenter.
+for.config.gamemode.fermenter.yield.mushroom.comment=§7modifies the amount of biomass a mushroom will yield in a fermenter.
+
+for.config.gamemode.squeezer.liquid.seed.comment=§7modifies the amount of seed oil squeezed from a single seed. other sources are based off this.
+for.config.gamemode.squeezer.liquid.apple.comment=§7modifies the amount of juice squeezed from a single apple. other sources are based off this.
+for.config.gamemode.squeezer.mulch.apple.comment=§7modifies the chance of mulch per squeezed apple.
+
+for.config.gamemode.energy.engine.clockwork.comment=§7Enable the clockwork engine.
+
+###################################
+# CUSTOM BEE AND TREE SPECIES NAMES
+###################################
+# Syntax:
+# for.bees.custom.<type>.<species>=§7New custom bee name
+# for.trees.custom.<type>.<species>=§7New custom tree name
+# Examples:
+# for.bees.custom.drone.forest=§7Forest Drone
+# for.trees.custom.pollen.darkOak=§7New Dark Oak Pollen Name
+# Beealyzer/Treealyzer syntax:
+# for.bees.custom.beealyzer.<type>.<species>=§7New custom bee species name
+# for.trees.custom.treealyzer.<type>.<species>=§7New custom tree species name
+# Examples:
+# for.bees.custom.beealyzer.drone.forest=§7New Forest drone species name when used in a beealyzer
+# for.trees.custom.treealyzer.pollen.darkOak=§7New Dark Oak pollen species name when used in a treealyzer
+
+###################################
+# CUSTOM ALLELE ADJECTIVES
+###################################
+# Replaces forestry.allele.<adjective>
+#
+# Syntax:
+# forestry.allele.<category>.<adjective>=§7New custom adjective
+#
+# Available categories and [adjectives]:
+# speed: 		[slowest, slower, slow, normal, fast, faster, fastest]
+# maturation: 	[slowest, slower, slow, normal, fast, faster, fastest]
+# flowering:	[slowest, slower, slow, normal, fast, faster, fastest, maximum]
+#
+# size: 		[smallest, smaller, average, large, larger, largest]
+# height: 		[smallest, smaller, average, large, larger, largest, gigantic]
+# territory:	[average, large, larger, largest]
+#
+# saplings: 	[lowest, lower, low, average, high, higher, highest]
+# yield: 		[lowest, lower, low, average, high, higher, highest]
+# sappiness:	[lowest, lower, low, average, high, higher, highest]
+#
+# Examples:
+# forestry.allele.speed.slowest=§7New custom adjective for slowest worker speed, replacing forestry.allele.slowest
+# forestry.allele.flowering.slowest=§7New custom adjective for slowest flower pollination, replacing forestry.allele.slowest
+# forestry.allele.yield.low=§7New custom adjective for low yield, replacing forestry.allele.low
+
+###################################
+# CUSTOM TOOLTIPS
+###################################
+# Available custom tooltips:
+# for.tooltip.worker.<speed adjective> for bee worker speed.
+#
+# Example:
+# for.tooltip.worker.slowest=§7Slowest Worker
+
+###################################
+# CUSTOM WOOD NAMES
+###################################
+#
+# Examples:
+# tile.for.stairs.4.name=§7Chestnut Stairs
+# tile.for.planks.8.name=§7Kapok Wood Planks
+# tile.for.slab.5.name=§7Wenge Wood Slab
+# tile.for.log.10.name=§7Mahogany Wood
+# tile.for.fences.0.name=§7Larch Fence
+
+####################
+# NEI Categories
+####################
+
+nei.subsets.Forestry=§7Forestry
+nei.subsets.Forestry.Bees=§7Bees
+nei.subsets.Forestry.Bees.Combs=§7Combs
+nei.subsets.Forestry.Bees.Drones=§7Drones
+nei.subsets.Forestry.Bees.Princesses=§7Princesses
+nei.subsets.Forestry.Bees.Queens=§7Queens
+nei.subsets.Forestry.Blocks=§7Blocks
+nei.subsets.Forestry.Butterflies=§7Butterflies
+nei.subsets.Forestry.Butterflies.Butterflies=§7Butterflies
+nei.subsets.Forestry.Butterflies.Caterpillars=§7Caterpillars
+nei.subsets.Forestry.Butterflies.Serums=§7Serums
+nei.subsets.Forestry.Items=§7Items
+nei.subsets.Forestry.Trees=§7Trees
+nei.subsets.Forestry.Trees.Pollen=§7Pollen
+nei.subsets.Forestry.Trees.Saplings=§7Saplings

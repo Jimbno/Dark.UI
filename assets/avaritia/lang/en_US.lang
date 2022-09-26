@@ -1,0 +1,175 @@
+#
+# Items
+item.avaritia_resource.diamond_lattice.name=§7Diamond Lattice
+item.avaritia_resource.crystal_matrix_ingot.name=§7Crystal Matrix Ingot
+item.avaritia_resource.neutron_pile.name=§7Pile of Neutrons
+item.avaritia_resource.neutron_nugget.name=§7Neutronium Nugget
+item.avaritia_resource.neutronium_ingot.name=§7Neutronium Ingot
+item.avaritia_resource.infinity_catalyst.name=§7Infinity Catalyst
+item.avaritia_resource.infinity_ingot.name=§7Infinity Ingot
+item.avaritia_resource.record_fragment.name=§7Record Fragment
+item.singularity_iron.name=§7Iron Singularity
+item.singularity_gold.name=§7Golden Singularity
+item.singularity_lapis.name=§7Lapis Singularity
+item.singularity_redstone.name=§7Redstone Singularity
+item.singularity_quartz.name=§7Nether Quartz Singularity
+item.singularity_copper.name=§7Copper Singularity
+item.singularity_tin.name=§7Tin Singularity
+item.singularity_lead.name=§7Leaden Singularity
+item.singularity_silver.name=§7Silver Singularity
+item.singularity_nickel.name=§7Nickel Singularity
+item.singularity_enderium.name=§7Enderium Singularity
+item.infinity_pickaxe.name=§7World Breaker
+item.infinity_sword.name=§7Sword of the Cosmos
+item.infinity_shovel.name=§7Planet Eater
+item.infinity_axe.name=§7Nature's Ruin
+item.infinity_bow.name=§7Longbow of the Heavens
+item.skullfire_sword.name=§7Skullfire Sword
+item.akashic_record.name=§7Akashic Records
+item.orb_armok.name=§7Blood Orb of Armok
+item.avaritia_stew.name=§7Ultimate Stew
+item.avaritia_meatballs.name=§7Cosmic Meatballs
+item.avaritia_endest_pearl.name=§7Endest Pearl
+item.infinity_armor_0.name=§7Infinity Helmet
+item.infinity_armor_1.name=§7Infinity Breastplate
+item.infinity_armor_2.name=§7Infinity Pants
+item.infinity_armor_3.name=§7Infinity Boots
+item.avaritia_fracturedore.name=§7Unknown Fractured Ore
+item.avaritia_fracturedore.prefix=§7Fractured
+item.avaritia_mattercluster.name=§7Matter Cluster
+item.avaritia_mattercluster.full.name=§7Critical Matter Cluster
+item.morvinabox.name=§7Morv-In-A-Box (WIP)(WILL LIGHT YOU ON FIRE)
+item.avaritia.comb.nerfed.name=§7Nerfed Comb
+item.avaritia.comb.cosmic.name=§7Cosmic Comb
+item.avaritia_beesource.infinity_drop.name=§7Infinity Drop
+item.avaritia_beesource.dust.name=§7Dust
+item.extremely_primordial_pearl.name=§7Extremely Primordial Pearl
+#
+# Blocks
+tile.compressed_workbench.name=§7Compressed Crafting Table
+tile.very_compressed_workbench.name=§7Double Compressed Crafting Table
+tile.block_crystal_matrix.name=§7Crystal Matrix
+tile.block_neutronium.name=§7Neutronium Block
+tile.block_infinity.name=§7Infinity Block
+tile.block_gaia.name=§7Gaia Block
+tile.dire_crafting.name=§7Dire Crafting Table
+tile.neutron_collector.name=§7Neutron Collector
+tile.neutronium_compressor.name=§7Neutronium Compressor
+tile.infinitato.name=§7Infinitato
+tile.alfheim_deadrock0.name=§7Deadrock
+tile.alfheim_deadrock1.name=§7Deadrock Brick
+tile.alfheim_deadrock2.name=§7Mossy Deadrock Brick
+tile.alfheim_deadrock3.name=§7Cracked Deadrock Brick
+tile.alfheim_deadrock4.name=§7Chiselled Deadrock
+#
+# Tooltips
+tooltip.armok.desc=§7Stores unlimited Life Essence while held
+tooltip.crystal_matrix_ingot.desc=§7This isn't even its final form.
+tooltip.neutron_pile.desc=§7Try not to think about it.
+tooltip.neutron_nugget.desc=§7About 35.6 million metric tons.
+tooltip.neutronium_ingot.desc=§7The dense heart of a star in convenient ingot form.
+tooltip.infinity_catalyst.desc=§7One is all and all is one.
+tooltip.infinity_ingot.desc=§7The fury of the universe in the palm of your hand.
+tooltip.record_fragment.desc=§7One likes to believe in the freedom of music~
+tooltip.skullfire_sword.desc=§7Beheads skeletons and scorches them black.
+tooltip.matter_cluster.desc=§7Use to deconstruct.
+tooltip.matter_cluster.desc2=§7Hold SHIFT for contents.
+tooltip.matter_cluster.counter=§7items
+tooltip.morvinabox.desc=§7Instant housing
+tooltip.morvinabox.subdesc=§7In Canada, Morvy comes in bags.
+#
+# Achievements
+achievement.avaritia:crystal_matrix=§7The First Seal
+achievement.avaritia:crystal_matrix.desc=§7Create your first Crystal Matrix Ingot
+achievement.avaritia:dire_crafting=§7HELLO, EVERYONE!
+achievement.avaritia:dire_crafting.desc=§7Use a regular Crafting Table to craft a Dire Crafting Table
+achievement.avaritia:dire_uncrafting=§7TAKE IT EASY!
+achievement.avaritia:dire_uncrafting.desc=§7End the episode
+achievement.avaritia:collector=§7Now We Play The Waiting Game
+achievement.avaritia:collector.desc=§7Create your first Neutron Collector and get ready to chunkload
+achievement.avaritia:neutronium=§7Waiting Game Sucks
+achievement.avaritia:neutronium.desc=§7Create the first of many Neutronium Ingots
+achievement.avaritia:singularity=§7Event Horizon
+achievement.avaritia:singularity.desc=§7Craft your first Singularity
+achievement.avaritia:catalyst=§7All The Kitchen Sinks
+achievement.avaritia:catalyst.desc=§7Craft your first Infinity Catalyst
+achievement.avaritia:infinity=§7INFINITE POWER!
+achievement.avaritia:infinity.desc=§7Craft your first Infinity Ingot
+achievement.avaritia:armok=§7☺♦
+achievement.avaritia:armok.desc=§7Craft the Blood Orb of Armok
+achievement.avaritia:creative_kill=§7Even Gods Can Bleed
+achievement.avaritia:creative_kill.desc=§7"By that sin fell the angels"
+#
+# Misc
+itemGroup.avaritia=§7Avaritia
+container.neutron_collector=§7Neutron Collector
+container.neutronium_compressor=§7Neutronium Compressor
+tc.aspect.terminus=§7The End of Games, Apocalypse, Grindstones
+crafting.extreme=§7Xtreme Crafting
+crafting.extreme.shapeless=§7Xtreme Shapeless
+crafting.extreme_compression=§7Neutronium Compressor
+tip.infinity=§7Infinity
+death.attack.infinity=§7%1$s was obliterated by %2$s
+death.attack.infinity.item=§7%1$s was obliterated by %2$s
+death.attack.infinity.1=§7%1$s was sliced to ribbons by %2$s
+death.attack.infinity.2=§7%1$s was excised from existence by %2$s
+death.attack.infinity.3=§7%1$s was overkilled by %2$s
+death.attack.infinity.4=§7%1$s was annihilated by %2$s
+#
+# Botania
+avaritia.flower.asgardandelion.name=§7Asgardandelion
+tile.botania:flower.asgardandelion.name=§7Asgardandelion
+tile.avaritia.flower.asgardandelion.lore=§7Watered with Vazkii's tears :c
+avaritia.lexicon.asgardandelion=§7Asgardandelion
+avaritia.lexicon.asgardandelion.0=§7Rumors abound about some kind of godlike flower that can produce a never-ending torrent of mana. If such a mythical flower were to exist, it would probably require wealth and resources beyond mortal reckoning.<BR>&oStill not a SAO reference.&r
+avaritia.lexicon.infinitato=§7Infinitato
+avaritia.lexicon.infinitato.0=§7Imprinting the essence of everything onto objects can have interesting results, and the Infinitato is no exception.<BR>Somewhat larger than its tiny sibling, and infused with the can-do attitude of a whole crowd of &1Tiny Potatoes&0 plus an &1Infinity Catalyst&0, the &1Infinitato&0 believes that you can do all the things, forever.
+avaritia.lexicon.infinitato.1=§7Trust me, &oit'll fit.&r
+avaritia.flower.soarleander.name=§7Soarleander
+tile.botania:flower.soarleander.name=§7Soarleander
+tile.avaritia.flower.soarleander.lore=§7Just hook it up to my &oveeeeins!&r
+avaritia.lexicon.soarleander=§7Soarleander
+avaritia.lexicon.soarleander.0=§7If you have a surfeit of chicken or chicken by-products, look no further!<BR>The Soarleander will devour any and all things chicken in the vicinity (chickens themselves included) while remaining totally disinterested in everything else.
+avaritia.lexicon.soarleander.1=§7&oAny random chests are an unintended side-effect.&r
+#
+# Thaumcraft
+item.Wand.infinity.rod=§7Cosmic Neutronium
+item.Wand.matrix.cap=§7Crystal Studded
+#
+# Tinkers Construct
+material.avaritia_neutronium=§7Neutronium
+material.avaritia_neutronium.ability=§7Supermassive
+material.avaritia_infinitymetal=§7Infinity
+material.avaritia_infinitymetal.ability=§7Cosmic
+#
+# Beeeeeeeeeeeees
+avaritia.bee.annoying=§7Annoying
+avaritia.bee.annoying.desc=§7"How long can it take to build a single honeycomb?!"|Note found in an ancient time capsule
+avaritia.bee.tedious=§7Tedious
+avaritia.bee.tedious.desc=§7Their hives are actually built out of smaller hives, which are themselves built out of smaller hives...
+avaritia.bee.insufferable=§7Insufferable
+avaritia.bee.insufferable.desc=§7They often sabotage other bees they perceive as having any advantages or improper vocabulary.
+avaritia.bee.trippy=§7Trippy
+avaritia.bee.trippy.desc=§7"Dude. Like... bees. Man. They're like... whoa."|SpitefulFox, Unlicensed Apiarist
+avaritia.bee.cosmic=§7Cosmic
+avaritia.bee.cosmic.desc=§7
+avaritia.bee.neutronium=§7Neutronium
+avaritia.bee.neutronium.desc=§7Small objects can often by found orbiting their hives.
+avaritia.bee.infinite=§7Infinite
+avaritia.bee.infinite.desc=§7
+
+classification.balanced=§7Balanced
+classification.balanced.desc=§7These bees get bored and drop dead the moment they complete whatever they're working on. They take the most long, convoluted routes and methods in order to keep themselves entertained.
+classification.infinite=§7Infinite
+classification.infinite.desc=§7They gather pranic energy from the hidden ley-lines and arcane geometries of the universe itself.
+
+avaritia.allele.speedNerfed=§7Nerfed
+avaritia.allele.lifespanArtificial=§7Artificial
+#
+# Research
+avaritia.research_name.BIG_PEARL=§7Extremely Primordial Pearl
+avaritia.research_text.BIG_PEARL=§7Because you can always have more
+avaritia.research_page.BIG_PEARL.1=§7Sure, the Primordial Pearl is pretty potent, but you think it could be even MORE potent.<BR><BR>By smashing several primordial pearls together in an arcane infusion, you create an even more potent item: The Extremely Primordial Pearl.<BR><BR>It's guaranteed to be even more primordial than a regular primordial pearl!
+avaritia.research_name.AKASHIC=§7Akashic Records
+avaritia.research_text.AKASHIC=§7More knowledge than you'll need
+avaritia.research_page.AKASHIC.1=§7You've researched enough of the world to crack the fabric of reality and enter the Outer Realms, but surely there's always room for MORE research, right?<BR><BR>The Akashic Records will give you all the research points in the world and then a little more.
